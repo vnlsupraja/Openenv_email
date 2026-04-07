@@ -22,7 +22,7 @@ dependencies = [
 ]
 
 [project.scripts]
-server = "server.app:app"
+server = "server.app:main"
 
 [project.optional-dependencies]
 dev = [
@@ -38,3 +38,4 @@ include = ["env*", "server*"]
 Homepage = "https://github.com/openenv/email-triage"
 Documentation = "https://docs.openenv.ai"
 Repository = "https://github.com/openenv/email-triage"
+

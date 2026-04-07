@@ -32,7 +32,7 @@ dev = [
 
 [tool.setuptools.packages.find]
 where = ["."]
-include = ["env*"]
+include = ["env*", "server*"]
 
 [project.urls]
 Homepage = "https://github.com/openenv/email-triage"

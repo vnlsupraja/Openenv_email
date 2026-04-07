@@ -1,0 +1,41 @@
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "email-triage-env"
+version = "0.1"
+description = "OpenEnv Email Triage Environment - An AI-powered email classification task"
+readme = "readme.md"
+requires-python = ">=3.8"
+authors = [
+    {name = "OpenEnv", email = "help_openenvhackathon@scaler.com"},
+]
+
+dependencies = [
+    "fastapi",
+    "uvicorn",
+    "pydantic",
+    "openai",
+    "python-dotenv",
+    "openenv-core>=0.2.0",
+]
+
+[project.scripts]
+server = "server.app:main"
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "pytest-cov",
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["env*", "server*"]
+
+[project.urls]
+Homepage = "https://github.com/openenv/email-triage"
+Documentation = "https://docs.openenv.ai"
+Repository = "https://github.com/openenv/email-triage"
+

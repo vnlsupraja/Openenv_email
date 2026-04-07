@@ -1,0 +1,13 @@
+name: email-triage-env
+version: 0.1
+
+entrypoint: env.environment:EmailEnv
+
+observation_model: env.models:Observation
+action_model: env.models:Action
+reward_model: env.models:Reward
+
+tasks:
+  - env.tasks:EasyTask
+  - env.tasks:MediumTask
+  - env.tasks:HardTask

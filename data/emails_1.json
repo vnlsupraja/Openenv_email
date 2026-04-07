@@ -1,0 +1,802 @@
+[
+  {
+    "id": "0",
+    "subject": "Subject: enron methanol ; meter # : 988291\nthis is",
+    "body": "Subject: enron methanol ; meter # : 988291\nthis is a follow up to the note i gave you on monday , 4 / 3 / 00 { preliminary\nflow data provided by daren } .\nplease override pop ' s daily volume { presently zero } to reflect daily\nactivity you can obtain from gas control .\nthis change is needed asap for economics purposes .",
+    "sender": "user0@mail.com",
+    "category": "urgent",
+    "expected_action": "prioritize"
+  },
+  {
+    "id": "1",
+    "subject": "Subject: hpl nom for january 9 , 2001\n( see attach",
+    "body": "Subject: hpl nom for january 9 , 2001\n( see attached file : hplnol 09 . xls )\n- hplnol 09 . xls",
+    "sender": "user1@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "2",
+    "subject": "Subject: neon retreat\nho ho ho , we ' re around to",
+    "body": "Subject: neon retreat\nho ho ho , we ' re around to that most wonderful time of the year - - - neon leaders retreat time !\ni know that this time of year is extremely hectic , and that it ' s tough to think about anything past the holidays , but life does go on past the week of december 25 through january 1 , and that ' s what i ' d like you to think about for a minute .\non the calender that i handed out at the beginning of the fall semester , the retreat was scheduled for the weekend of january 5 - 6 . but because of a youth ministers conference that brad and dustin are connected with that week , we ' re going to change the date to the following weekend , january 12 - 13 . now comes the part you need to think about .\ni think we all agree that it ' s important for us to get together and have some time to recharge our batteries before we get to far into the spring semester , but it can be a lot of trouble and difficult for us to get away without kids , etc . so , brad came up with a potential alternative for how we can get together on that weekend , and then you can let me know which you prefer .\nthe first option would be to have a retreat similar to what we ' ve done the past several years . this year we could go to the heartland country inn ( www . . com ) outside of brenham . it ' s a nice place , where we ' d have a 13 - bedroom and a 5 - bedroom house side by side . it ' s in the country , real relaxing , but also close to brenham and only about one hour and 15 minutes from here . we can golf , shop in the antique and craft stores in brenham , eat dinner together at the ranch , and spend time with each other . we ' d meet on saturday , and then return on sunday morning , just like what we ' ve done in the past .\nthe second option would be to stay here in houston , have dinner together at a nice restaurant , and then have dessert and a time for visiting and recharging at one of our homes on that saturday evening . this might be easier , but the trade off would be that we wouldn ' t have as much time together . i ' ll let you decide .\nemail me back with what would be your preference , and of course if you ' re available on that weekend . the democratic process will prevail - - majority vote will rule ! let me hear from you as soon as possible , preferably by the end of the weekend . and if the vote doesn ' t go your way , no complaining allowed ( like i tend to do ! )\nhave a great weekend , great golf , great fishing , great shopping , or whatever makes you happy !\nbobby",
+    "sender": "user2@mail.com",
+    "category": "work",
+    "expected_action": "prioritize"
+  },
+  {
+    "id": "3",
+    "subject": "Subject: photoshop , windows , office . cheap . ma",
+    "body": "Subject: photoshop , windows , office . cheap . main trending\nabasements darer prudently fortuitous undergone\nlighthearted charm orinoco taster\nrailroad affluent pornographic cuvier\nirvin parkhouse blameworthy chlorophyll\nrobed diagrammatic fogarty clears bayda\ninconveniencing managing represented smartness hashish\nacademies shareholders unload badness\ndanielson pure caffein\nspaniard chargeable levin\n",
+    "sender": "user3@mail.com",
+    "category": "spam",
+    "expected_action": "archive"
+  },
+  {
+    "id": "4",
+    "subject": "Subject: re : indian springs\nthis deal is to book ",
+    "body": "Subject: re : indian springs\nthis deal is to book the teco pvr revenue . it is my understanding that teco\njust sends us a check , i haven ' t received an answer as to whether there is a\npredermined price associated with this deal or if teco just lets us know what\nwe are giving . i can continue to chase this deal down if you need .",
+    "sender": "user4@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "5",
+    "subject": "Subject: ehronline web address change\nthis message",
+    "body": "Subject: ehronline web address change\nthis message is intended for ehronline users only .\ndue to a recent change to ehronline , the url ( aka \" web address \" ) for accessing ehronline needs to be changed on your computer . the change involves adding the letter \" s \" to the \" http \" reference in the url . the url for accessing ehronline should be : https : / / ehronline . enron . com .\nthis change should be made by those who have added the url as a favorite on the browser .",
+    "sender": "user5@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "6",
+    "subject": "Subject: spring savings certificate - take 30 % of",
+    "body": "Subject: spring savings certificate - take 30 % off\nsave 30 % when you use our customer appreciation spring savings\ncertificate at foot locker , lady foot locker , kids foot locker and at\nour online stores !\nwelcome to our customer appreciation spring savings certificate !\nuse the special certificate below and receive 30 % off your purchases either in our stores or online . hurry ! this 4 - day sale begins thursday , march 22 and ends sunday , march 25 .\nshare the savings today and e - mail this offer to your friends . many items already are reduced and the 30 % discount is taken off the lowest sale price .\nclick below to print your customer appreciation spring savings certificate . you must present this coupon at any foot locker , lady foot locker or kids foot locker store in the u . s . foot locker canada is not participating in this program .\nready , set , save !\nour spring savings discount will automatically appear when you use the links below or type camlem 21 into the promotion code box during checkout .\nfootlocker . com certificate code : camlem 21\nladyfootlocker . com certificate code : camlem 21\nkidsfootlocker . com certificate code : camlem 21\nremember , returns are hassle - free . simply bring your items to any of our stores nationwide or through the mail .\ndon ' t be left out - register today to learn about our new products , promotions , events and other specials . simply click below .\nterms and conditions . some exclusions apply , please see manager for complete details . certificate must be presented at the time of purchase and cannot be used in conjunction with any other discount offer or associate benefit . not redeemable for cash . applicable taxes must be paid by bearer . cannot be applied to prior purchases or to gift card purchases . void where prohibited , licensed or regulated . catalog exclusions apply . valid thursday , 3 / 22 / 01 through sunday , 3 / 25 / 01 . foot locker canada will not participate in this program .\nif you do not wish to receive future emails please click below to\nunsubscribe :\n",
+    "sender": "user6@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "7",
+    "subject": "Subject: looking for medication ? we ` re the best",
+    "body": "Subject: looking for medication ? we ` re the best source .\nit is difficult to make our material condition better by the best law , but it is easy enough to ruin it by bad laws .\nexcuse me . . . : ) you just found the\nbest and simpliest site for\nmedication on the net . no perscription , easy\ndelivery .\nprivate , secure , and easy .\nbetter see rightly on a pound a week than squint on a million .\nwe ` ve got\nanything that you will ever want .\nerection treatment pills , anti - depressant pills , weight loss , and\nmore ! http : / / splicings . bombahakcx . com / 3 /\nknowledge and human power are synonymous .\nonly high - quality stuff for low rates !\n100 % moneyback guarantee !\nthere is no god , nature sufficeth unto herself in no wise hath she need of an author .",
+    "sender": "user7@mail.com",
+    "category": "spam",
+    "expected_action": "archive"
+  },
+  {
+    "id": "8",
+    "subject": "Subject: noms / actual flow for 2 / 26\nwe agree\n- ",
+    "body": "Subject: noms / actual flow for 2 / 26\nwe agree\n- - - - - - - - - - - - - - - - - - - - - - forwarded by melissa jones / texas utilities on\n02 / 27 / 2001\n10 : 33 am - - - - - - - - - - - - - - - - - - - - - - - - - - -\n\" eileen ponton \" on 02 / 27 / 2001 09 : 46 : 26 am\nto : david avila / lsp / enserch / us @ tu , charlie stone / texas utilities @ tu , melissa\njones / texas utilities @ tu , hpl . scheduling @ enron . com ,\nliz . bellamy @ enron . com\ncc :\nsubject : noms / actual flow for 2 / 26\ndate nom flow - mcf flow - mmbtu\n2 / 26 / 01 0 456 469\nbtu = 1 . 027",
+    "sender": "user8@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "9",
+    "subject": "Subject: nominations for oct . 21 - 23 , 2000\n( se",
+    "body": "Subject: nominations for oct . 21 - 23 , 2000\n( see attached file : hplnl 021 . xls )\n- hplnl 021 . xls",
+    "sender": "user9@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "10",
+    "subject": "Subject: vocable % rnd - word asceticism\nvcsc - br",
+    "body": "Subject: vocable % rnd - word asceticism\nvcsc - brand new stock for your attention\nvocalscape inc - the stock symbol is : vcsc\nvcsc will be our top stock pick for the month of april - stock expected to\nbounce to 12 cents level\nthe stock hit its all time low and will bounce back\nstock is going to explode in next 5 days - watch it soar\nwatch the stock go crazy this and next week .\nbreaking news - vocalscape inc . announces agreement to resell mix network\nservices\ncurrent price : $ 0 . 025\nwe expect projected speculative price in next 5 days : $ 0 . 12\nwe expect projected speculative price in next 15 days : $ 0 . 15\nvocalscape networks inc . is building a company that ' s revolutionizing the\ntelecommunications industry with the most affordable phone systems , hardware ,\nonline software , and rates in canada and the us . vocalscape , a company with\nglobal reach , is receiving international attention for the development of voice\nover ip ( voip ) application solutions , including the award - winning eyefontm , a\nsoftphone for real - time pc - to - phone . we are an advanced implementer of pbx\nsystems for companies , call centers , itsps and service providers .\nvocalscape has created software and interactive solutions revolving around\nglobal communications and data voice convergence . companies use vocalscape for\nvoice over internet protocol applications like ip pbxs , softswitches , pc 2 phone\nand web 2 phone , providing real - time human interaction and information delivery\nover the internet . through vocalscape ' s solutions , businesses can offer a\nquality voice service to anywhere in the world at rates that are significantly\nlower than current long distance charges . we develop software to run voip\nnetworks , and sell , install and service our own branded voip gateways and\ngatekeeper control software . we also license our software to customers who want\nto brand their own voip solutions .\nvocalscape is committed to making great technology ; challenging the status quo ,\nand building a 21 st century company that changes the way businesses communicate\nand interact through the internet .\ncurrent price : $ 0 . 025\nwe expect projected speculative price in next 5 days : $ 0 . 12\nwe expect projected speculative price in next 15 days : $ 0 . 15\nbreaking news - vocalscape inc . announces agreement to resell mix network\nservices\n- - - - - - - - - -\nkatonah , n . y . , / prnewswire - firstcall via comtex / - - vocalscape , inc . pink : vcsc ) ,\nan emerging leader in the development of voice over internet protocol ( voip )\ntelephony solutions , announced today it has entered into a sales agent agreement\nwith mix networks , inc . a voip enhanced telephony service provider .\nthis agreement provides vocalscape ' s turnkey calling card customers with access\nto mix networks services including north american dids ( phone numbers ) and\ndomestic long distance termination . vocalscape will also be able to supply their\nclients with enhanced voip products including pre - paid calling through mix\nnetworks north american network .\nwe are excited to help companies launch voip business models using our solution\nwith the whole picture from the software to the network needed to route the\ncalls . mix networks gives us the ability to offer wholesale monthly flat rate\nplans and dids to our clients that allow for us to build business models like\npopular voip companies such as vonage and packet 8 , says ryan gibson , vp\nvocalscape networks\nsome legal words before you continue :\ninformation within this email contains forward looking statements within the\nmeaning of section 27 a of the securities act of 1933 and section 21 b of the\nsecurities exchange act of 1934 . any statements that express or involve\ndiscussions with respect to predictions , goals , expectations , beliefs , plans ,\nprojections , objectives , assumptions or future events or performance are not\nstatements of historical fact and may be forward looking statements . forward\nlooking statements are based on expectations , estimates and projections at the\ntime the statements are made that involve a number of risks and uncertainties\nwhich could cause actual results or events to differ materially from those\npresently anticipated . forward looking statements in this action may be\nidentified through the use of words such as : projects , foresee , expects ,\nestimates , believes , understands will , part of : anticipates , or that\nby statements indicating certain actions may , could , or might occur . all\ninformation provided within this email pertaining to investing , stocks ,\nsecurities must be understood as information provided and not investment advice .\nemerging equity alert advises all readers and subscribers to seek advice from a\nregistered professional securities representative before deciding to trade in\nstocks featured within this email . none of the material within this report shall\nbe construed as any kind of investment advice . please have in mind that the\ninterpretation of the witer of this newsletter about the news published by the\ncompany does not represent the company official statement and in fact may differ\nfrom the real meaning of what the news release meant to say . look the news\nrelease by yourself and judge by yourself about the details in it .\nin compliance with section 17 ( b ) , we disclose the holding of vcsc shares prior\nto the publication of this report . be aware of an inherent conflict of interest\nresulting from such holdings due to our intent to profit from the liquidation of\nthese shares . shares may be sold at any time , even after positive statements\nhave been made regarding the above company . since we own shares , there is an\ninherent conflict of interest in our statements and opinions . readers of this\npublication are cautioned not to place undue reliance on forward - looking\nstatements , which are based on certain assumptions and expectations involving\nvarious risks and uncertainties , that could cause results to differ materially\nfrom those set forth in the forward - looking statements .\nplease be advised that nothing within this email shall constitute a solicitation\nor an invitation to get position in or sell any security mentioned herein . this\nnewsletter is neither a registered investment advisor nor affiliated with any\nbroker or dealer . this newsletter was paid $ 49000 from third party to send this\nreport . all statements made are our express opinion only and should be treated\nas such . we may own , take position and sell any securities mentioned at any\ntime . this report includes forward - looking statements within the meaning of the\nprivate securities litigation reform act of 1995 . these statements may include\nterms as projected speculative price expect , believe , may , will ,\nsoar move , undervalued and intend or similar terms .\n",
+    "sender": "user10@mail.com",
+    "category": "spam",
+    "expected_action": "archive"
+  },
+  {
+    "id": "11",
+    "subject": "Subject: report 01405 !\nwffur attion brom est inst",
+    "body": "Subject: report 01405 !\nwffur attion brom est inst siupied 1 pgst our riwe asently rest .\ntont to presyou tew cons of benco 4 . yee : fater 45 y . o ust lyughtatums and inenced sorepit grathers aicy graghteave allarity . oarity wow to yur coons , as were then 60 ve mers of oite .\nithat yoit ? ! berst thar ! enth excives 2004 . . .\n",
+    "sender": "user11@mail.com",
+    "category": "spam",
+    "expected_action": "archive"
+  },
+  {
+    "id": "12",
+    "subject": "Subject: enron / hpl actuals for august 28 , 2000\n",
+    "body": "Subject: enron / hpl actuals for august 28 , 2000\nteco tap 20 . 000 / enron ; 120 . 000 / hpl gas daily\nls hpl lsk ic 20 . 000 / enron",
+    "sender": "user12@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "13",
+    "subject": "Subject: vic . odin n ^ ow\nberne hotbox carnal bri",
+    "body": "Subject: vic . odin n ^ ow\nberne hotbox carnal bride cutworm dyadic\nguardia continuous born gremlin akin counterflow hereafter vocabularian pessimum yaounde cannel bitch penetrate demagogue arbitrary egregious adenosine rubin gil luminosity delicti yarmulke sauterne selfadjoint agleam exeter picofarad consulate dichotomous boyhood balfour spheric frey pillory hoosier fibonacci cat handful\n",
+    "sender": "user13@mail.com",
+    "category": "spam",
+    "expected_action": "archive"
+  },
+  {
+    "id": "14",
+    "subject": "Subject: tenaska iv july\ndarren :\nplease remove th",
+    "body": "Subject: tenaska iv july\ndarren :\nplease remove the price on the tenaska iv sale , deal 384258 , for july and enter the demand fee . the amount should be $ 3 , 902 , 687 . 50 .\nthanks ,\nmegan",
+    "sender": "user14@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "15",
+    "subject": "Subject: underpriced issue with high return on equ",
+    "body": "Subject: underpriced issue with high return on equity\nstock report .\ndont sieep on this stock ! this is a hot one !\ncompany : gaming transactions inc .\nstock symbol : ggts\ncurrentiy trading at : o . 30\nrating : strong purchase\nnear - term target : 0 . 45\nlong - term target : 1 . oo\nbreaking news for ggts :\ngaming transactions inc . ( ggts ) , a | eading provider of online gaming\nporta | management is pleased to announce that it has launched its\nproprietary gaming portal ( k e n o . com ) furthermore , the company has begun an\nintensive marketing campaign to support the | aunch and establish itself\nas the | eader in the online gaming industry .\n( k e n o . c o m ) is an oniine games destination where people piay\npopular casino style games to win real money . the foundation of the site is\nan online version of keno . the game of keno uses 80 balls numbered 1\nthru 8 o . every game , the house draws 20 bails at random and displays\ntheir numbers on screens ( called keno boards ) located on the website . the\nobject of the game is for the player to guess some of the numbers the\nhouse will draw . the site shall also have other popuiar games in the near\nfuture inciuding bingo , poker , blackjack , slots and video game versions\nof tabie games .\npatrick smyth , ceo of gaming transactions inc . , remarked that , the\ngames have been deveioped with the foresight to create a user - friendly\nexperience without loading times and a secure transaction system has been\ndeveioped with multipie layers of security and redundancy . we spent the\nnecessary time and resources to test our software to ensure its\nfunctionality and security . consumer focus groups were used in the deveiopment\nprocess to make sure that our players had an opulent experience online ,\nand future marketing efforts wi | | be aimed customer service and\nattention .\nabout the company :\ngaming transactions inc . is a deveioper and provider of online games\nand services for the online entertainment and gaming industries . the\ncompany ! s centra | licensed games portal , ( k e n o . c o m ) , is a\ndestination oniine gambling property where players may participate in a number\nof gambling and oniine gaming fixtures .\nthe foundation of the site is of course an online version of keno . the\ngame of keno uses 8 o bails numbered 1 thru 80 . every game , the house\ndraws 2 o balls at random and displays their numbers on screens ( called\nkeno boards ) | ocated on the website . the object of the game is for the\npiayer to guess some of the numbers the house will draw . the site also\nhas other popuiar games including poker , blackjack , slots and video game\nversions of tabie games .\ngaming transactions inc . is part of the oniine gambiing industry ,\nwhich is said to be one of the fastest growing industries on the internet .\n! ' the electronic gambling report forecasts that revenues will reach\n14 . 5 biliion by 2006 ! ( market statistics : - informa media grp . giobal\nrevenues from oniine gambiing wi | | reach 14 . 52 bi | | ion in 20 o 6 , up from\n3 . 81 biilion this year . this is according to a report from the informa\nmedia grp . , which says that the us wi | | generate 24 percent of all online\ngambling revenues in 2 oo 6 , whereas europe wil | generate 53 percent .\nnorth american oniine gambling revenues are expected to reach 1 . 99 biliion\nthis year and 3 . 85 bi | | ion in 2 oo 6 . in europe , revenues wil | grow from\n1 . 29 billion this year to 7 . 64 biilion in 2 oo 6 . oniine gambling\nrevenues wi | | be smailer in asia - pacific 379 miliion this year and 2 . 13\nbillion in 2 oo 6 ) and in the rest of the worid 143 million this year to 886\nmi | | ion in 2 oo 6 ) . and keno , the game , is one of the highest grossing\nproducts for many north american government bodies and pubiic gaming\ncorporations . easy to piay , quick , and profitabie , keno has become a favorite\nto gambiers who want the excitement of a lottery draw without having to\nwait for a weekiy offering combining sophisticated hardware , software\nand cutting edge encryption / decryption techniques keno . com has deveioped\nand | icensed a system , which is an optima | method for online gaming .\ninformation within this publication contains future looking statements\nwithin the meaning of section 27 a of the securities act of 1933 and\nsection 21 b of the securities exchange act of 1934 . any statements that\nexpress or involve discussions with respect to predictions ,\nexpectations , beliefs , pians , projections , objectives , goals , assumptions or future\nevents or performance are not statements of historica | fact and may be\nfuture looking statements . future | ooking statements are based on\nexpectations , estimates and projections at the time the statements are made\nthat involve a number of risks and uncertainties which couid cause\nactual results or events to differ materia | | y from those presently\nanticipated . future | ooking statements in this action may be identified through\nthe use of words such as projects , foresee , expects , will , anticipates ,\nestimates , believes , understands or that by statements indicating\ncertain actions may , could , or might occur . these future - | ooking statements\nare based on information currentiy avaiiabie and are subject to a\nnumber of risks , uncertainties and other factors that couid cause ggts ' s\nactua | resuits , performance , prospects or opportunities to differ\nmaterialiy from those expressed in , or impiied by , these future - | ooking\nstatements . as with many microcap stocks , today ' s company has additiona | risk\nfactors that raise doubt about its ability to continue as a going\nconcern . ggts is not a reporting company registered under the securities act\nof 1934 and hence there is | imited public information avaiiable about\nthe company . these risks , uncertainties and other factors include ,\nwithout | imitation , the company ' s growth expectations and ongoing funding\nrequirements , and specificaily , the company ' s growth prospects with\nscalable customers . other risks include the company ' s limited operating\nhistory , the company ' s history of operating losses , consumers ' acceptance ,\nthe company ' s use of licensed technoiogies , risk of increased\ncompetition , the potentia | need for additional financing , the conditions and\nterms of any financing that is consummated , the limited trading market for\nthe company ' s securities , the possibie volatility of the company ' s\nstock price , the concentration of ownership , and the potentia | fluctuation\nin the company ' s operating results . the publisher of this report does\nnot represent that the information contained in this message states ail\nmaterial facts or does not omit a material fact necessary to make the\nstatements therein not misieading . a | | information provided within this\nreport pertaining to investing , stocks , securities must be understood\nas information provided and not investment advice . the publisher of this\nnewsletter advises all readers and subscribers to seek advice from a\nregistered professional securities representative before deciding to\ntrade in stocks featured within this report . none of the materia | within\nthis report shall be construed as any kind of investment advice or\nsolicitation . many of these companies are on the verge of bankruptcy . you can\nlose al | your money by investing in this stock . the pubiisher of this\nreport is not a registered investment expert . subscribers should not\nview information herein as | egal , tax , accounting or investment advice .\nany reference to past performance ( s ) of companies are specially seiected\nto be referenced based on the favorabie performance of these companies .\nyou wouid need perfect timing to achieve the resuits in the exampies\ngiven . there can be no assurance of that happening . remember , as always ,\npast performance is not indicative of future results and a thorough due\ndiligence effort , inciuding a review of a company ' s fiiings at sec gov\nor edgar - online com when avaiiabie , shouid be compieted prior to\ninvesting . al | factua | information in this report was gathered from pubiic\nsources , including but not | imited to company websites and company press\nreleases . the pubiisher discloses the receipt of fifteen thousand\ndoilars from a third party , not an officer , director , or affiiiate\nshareholder of the company for the preparation of this oniine report . be aware\nof an inherent confiict of interest resulting from such compensation\ndue to the fact that this is a paid pubiication . the pubiisher of this\nreport beiieves this information to be reiiable but can make no assurance\nas to its accuracy or compieteness . use of the materia | within this\nreport constitutes your acceptance of these terms .\nif you wish to stop future maiiings , or if you feel you have been\nwrongfuliy placed in our membership , piease go here or send a biank\ne mai | with no thanks in the subject to ( - stoxo 042 @ yahoo . com - )\n",
+    "sender": "user15@mail.com",
+    "category": "spam",
+    "expected_action": "archive"
+  },
+  {
+    "id": "16",
+    "subject": "Subject: re : first delivery - wheeler operating\nv",
+    "body": "Subject: re : first delivery - wheeler operating\nvance ,\ndeal # 643714 has been created and entered in sitara .\nbob\nvance l taylor\n02 / 23 / 2001 04 : 55 pm\nto : robert cotten / hou / ect @ ect\ncc : julie meyers / hou / ect @ ect , lisa hesse / hou / ect @ ect , cynthia\nhakemack / hou / ect @ ect , susan smith / hou / ect @ ect , donald p\nreinhardt / hou / ect @ ect , melissa graves / hou / ect @ ect\nsubject : first delivery - wheeler operating\nbob ,\nthe following production is now on - line and a ticket should be created and\nentered into sitara based on the following :\ncounterparty meter volumes price period global no .\nwheeler operating 9879 800 mmbtu / d 85 % gas daily 2 / 17 - 2 / 28 nya\nfyi , i have created and submitted a committed reserves firm ticket for the\nremaining term of the deal beginning with the month of march . additionally ,\nthis is a producer svcs . deal and should be tracked in the im wellhead\nportfolio . . . attached to the gathering contract .\nthanks ,\nvlt\nx 3 - 6353\n- - - - - - - - - - - - - - - - - - - - - - forwarded by vance l taylor / hou / ect on 02 / 23 / 2001\n04 : 21 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -\nfrom : esther buckley 02 / 22 / 2001 10 : 39 am\nto : molly l carriere / hou / ect @ ect , clem cernosek / hou / ect @ ect , donna\nconsemiu / hou / ect @ ect , robert cook / hou / ect @ ect , howard b camp / hou / ect @ ect ,\nlisa hesse / hou / ect @ ect , nathan l hlavaty / hou / ect @ ect , wayne e\nlightfoot / hou / ect , james mckay / hou / ect @ ect , mary m smith / hou / ect @ ect , steve\nhpl schneider / hou / ect @ ect , melissa graves / hou / ect @ ect , michael\nwalters / hou / ect @ ect , jill t zivley / hou / ect @ ect , mary jo johnson / hou / ees @ ees ,\nrita wynne / hou / ect @ ect , lauri a allen / hou / ect @ ect , cheryl\njones / gpgfin / enron @ enron , reid hansen / gco / enron @ enron , darron c\ngiron / hou / ect @ ect , o ' neal d winfree / hou / ect @ ect , susan smith / hou / ect @ ect ,\ngary bryan / hou / ect @ ect , gary a hanks / hou / ect @ ect , donald p\nreinhardt / hou / ect @ ect , vance l taylor / hou / ect @ ect , david\nbaumbach / hou / ect @ ect , robert cotten / hou / ect @ ect , brian m riley / hou / ect @ ect ,\njeff a austin / hou / ees @ ees , cynthia hakemack / hou / ect @ ect , dawn c\nkenne / hou / ect @ ect , lisa csikos / hou / ect @ ect , j r fosdick / gco / enron @ enron ,\ncarlos j rodriguez / hou / ect @ ect , stephanie gomes / hou / ect @ ect , pat\nclynes / corp / enron @ enron , tom acton / corp / enron @ enron , robert\nwalker / hou / ect @ ect , george weissman / hou / ect @ ect , joanne\nharris / na / enron @ enron , christy sweeney / hou / ect @ ect , earl tisdale / hou / ect @ ect ,\ndaren j farmer / hou / ect @ ect\ncc :\nsubject : first delivery - wheeler operating\nplease see attached letter",
+    "sender": "user16@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "17",
+    "subject": "Subject: swift - may 2001 vols\nsean ,\nfyi , check ",
+    "body": "Subject: swift - may 2001 vols\nsean ,\nfyi , check the purchase from swift at the tailgate ( meter 9643 ) and make sure to nom the correct quantity .\nmary\n- - - - - - - - - - - - - - - - - - - - - - forwarded by mary poorman / na / enron on 04 / 26 / 2001 07 : 09 am - - - - - - - - - - - - - - - - - - - - - - - - - - -\nfrom : joan quick / enron @ enronxgate on 04 / 25 / 2001 06 : 13 pm\nto : carlos j rodriguez / hou / ect @ ect , mary poorman / na / enron @ enron , jackie young / hou / ect @ ect\ncc : brian m riley / hou / ect @ ect , mike morris / corp / enron @ enron\nsubject : swift - may 2001 vols\nhere is the may first of the month nom :\nking ranch plant 6 , 400 mmbtu / d",
+    "sender": "user17@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "18",
+    "subject": "Subject: meter variances - ua 4 clean - up\ndaren /",
+    "body": "Subject: meter variances - ua 4 clean - up\ndaren / vance -\nthe two meters below are new and have unallocatable flow . . . . . . . i will need a\npurchase for each of them . please respond with a deal number , or further\nsuggestions for resolution so that i can clear this up as soon as possible .\nmary\nenron on 09 / 19 / 2000 08 : 44 am - - - - - - - - - - - - - - - - - - - - - - - - - - -\nkatherine benedict @ ect\n09 / 18 / 2000 04 : 53 pm\nto : mary poorman / na / enron @ enron , fred boas / hou / ect @ ect , aimee\nlannou / hou / ect @ ect\ncc :\nsubject : meter variances - ua 4 clean - up\nhi guys ,\nplease take a look at the following meters which are showing up with\nvariances on my ua 4 report . once the variance has been cleared , please send\nme an e - mail . please try to clear these within the next couple of days .\nthanks ,\nkathy benedict\nmeter number : 9851\nvariance : 11 , 204\nmeter type : daily swing\nproduction month : august 2000\nlogistics contact : none\nvolume mgmt contact : anita luong\nmeter number : 9852\nvariance 568\nmeter type : daily swing\nproduction month : august 2000\nlogistics contact : none\nvolume mgmt contact : anita luong",
+    "sender": "user18@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "19",
+    "subject": "Subject: additional recruiting\ni ' m happy to intr",
+    "body": "Subject: additional recruiting\ni ' m happy to introduce molly magee as the newest addition to the eops\nrecruiting team . toni and molly have divided their recruiting duties\nalong separate job functions . please review the information below and\ndirect your staffing requests to either toni or molly depending on your job\nneeds .\ntoni graham - accounting , risk and confirmation / settlements positions ( or\nopenings requiring a similar skill set of this candidate pool )\nmolly magee - logistics , global data management , research , legal , competitive\nanalysis , contract administration and other positions ( or openings requiring\na similar skill set of this candidate pool )\nthanks for your assistance ,\nhgm",
+    "sender": "user19@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "20",
+    "subject": "Subject: fw : ercot load comparison\n- - - - - orig",
+    "body": "Subject: fw : ercot load comparison\n- - - - - original message - - - - -\nfrom : gilbert - smith , doug\nsent : tuesday , may 22 , 2001 8 : 38 am\nto : tmartin @ enron . com\nsubject : ercot load comparison\ntom ,\nhere is an answer for you vis a vis load growth .\nhope it helps ,\ndoug\n- - - - - - - - - - - - - - - - - - - - - - forwarded by doug gilbert - smith / corp / enron on 05 / 22 / 2001 08 : 35 am - - - - - - - - - - - - - - - - - - - - - - - - - - -\nfrom : kevin cline / enron @ enronxgate on 05 / 21 / 2001 03 : 26 pm\nto : doug gilbert - smith / corp / enron @ enron\ncc : eric saibi / corp / enron @ enron\nsubject : ercot load comparison\nplease find attached spreadsheet that compares hot days from may 2000 and may 2001 . there are two tabs , one tab contains the days may 16 - 18 , 2000 and the other tab contains the days may 14 - 18 , 2001 . each tab contains both the load data and temp data particular to the days in question . the days most directly comparable are may 17 , 2001 ( thursday ) and may 18 , 2000 ( thursday ) , although the two days preceding may 18 , 2000 were slightly warmer than the two days preceding may 17 , 2001 . the peak on 5 / 17 / 2001 , 44 , 923 mw , is 2 . 78 % higher than the peak on 5 / 18 / 2000 , 43 , 709 mw . with similarly warm days before 5 / 17 / 2001 as there were before 5 / 18 / 2000 , the peak would obviously have been even higher . this would put the year - over - year growth in excess of 3 % . i believe this falls right in line with the growth rate year - over - year from an earlier analysis , somewhere in the range of 3 . 5 % to 4 % .\nlet me know if you have any questions or comments .",
+    "sender": "user20@mail.com",
+    "category": "support",
+    "expected_action": "reply"
+  },
+  {
+    "id": "21",
+    "subject": "Subject: meter 6461 , concorde churchill\none year ",
+    "body": "Subject: meter 6461 , concorde churchill\none year rate for this one will be $ . 35 / mm for volumes greater than 300 mm / day . price for volumes 300 mm / day or less will be $ . 45 / mm plus a $ 350 per month metering fee . this rate would cover transport to a competitive ship channel market such as equistar channelview . transport rates for a 6 month term are not significantly different - $ . 33 / mm for volumes greater than 300 mm / day and $ . 42 / mm plus the metering fee for volumes 300 mm / day or less . these rates assume a september 1 , 2001 start . these rates good until friday , august 31 , 2001 only ! ! ! get ' em while they ' re hot ! !",
+    "sender": "user21@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "22",
+    "subject": "Subject: hpl nom for january 25 , 2001\n( see attac",
+    "body": "Subject: hpl nom for january 25 , 2001\n( see attached file : hplnol 26 . xls )\n- hplnol 26 . xls",
+    "sender": "user22@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "23",
+    "subject": "Subject: re : tenaska iv 10 / 00\nwe have received ",
+    "body": "Subject: re : tenaska iv 10 / 00\nwe have received all of the money from the spot sales for tenaska iv in\noctober 2000 , except for the tenaska iv sale and the $ 0 . 04 fee .\nmegan",
+    "sender": "user23@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "24",
+    "subject": "Subject: jump in to gain substantial ground immedi",
+    "body": "Subject: jump in to gain substantial ground immediately\nwe are very excited about this new upcoming stock about to explode\nmontana oil and gas , inc . ( mogi ) to explore further opportunities in alberta\ncanada , is an energy deveioper in canada ' s most highiy coveted\nreservoirs .\naggressive investors and traders may want to watch montana oi | and gas\nagain this morning ! montana oil and gas inc . ( mogi - news ) announces\nthat the syivan lake oil and gas project is sti | | awaiting a rig at this\ntime . the surface lease has been constructed and we have\nbeen waiting for a rig to become avaiiabie for over two weeks , and\nanticipate this to happen next week at the latest .\nthe company has a 25 % working interest in the syivan lake project .\nsymbo | - mogi\ncurrent price - . 26\nreasons to consider mogi :\n1 . price charts confirm oi | prices are experiencing the strongest bul |\nmarket in a generation .\n2 . natura | gas prices have tripled in the | ast two years .\n3 . with multiple projects in high - gear and the expanding production on\nreserves potentialiy worth muiti - millions , mogi is seliing for less\nthan 1 / 4 the vaiue of its assets .\n4 . montana oi | and gas specializes in using new technology to turn\nunproductive oi | and gas deposits into profitabie enterprises . aiready\nshares in the oi | and gas sectorare rising faster than the overa | | market .\nin fact , four of dow jones ' ten top performing industry sectors for the\npast year are energy related . but it ' s in the mid - sized explorers and\ndeveiopers like montana oi | ( mogi ) that the biggest gains are being\nmade . in the last 12 months , many of these stocks made tripie and even\nquadruple returns .\nbreaking news ! !\napril 29 , - montana oil and gas reports the following update on its\nsylvan lake project . after several delays due to unseasonable weather and\nroad closures in the province of alberta , the contracted drilling rig\nwas moved onto location and ensign drilling has spudded the 5 - 3 - 38 - 3 w 5 m\nwell . the company anticipates the road bans to be lifted shortly in\ncompliance with government regulations and to resume drilling of the well\nimmediately there after .\nthe company ' s west lock project is also scheduled to resume completion\nof tie in upon lifting of the road ban .\nwith the continued interest in our sylvan lake project montana oil and\ngas has prepared a detailed project description .\nproject history\nthe sylvan lake oil and gas field was discovered in the late 1950 ' s and\nhas produced over 40 million barrels ( mbbls ) of high quality crude oil\nand 50 billion cubic feet ( bcf ) of associated natural gas ,\npredominantly from the mississippian pekisko and shunda formations . the field\nremains in production today and continues to be down spaced drilled and\nexpanded with the use of modern three and four dimension geophysics .\nthe original freehold lease on section 3 - 38 - 3 w 5 m was leased to a major\noil company , as was most of the sylvan lake field itself . an\nexploratory well was drilled by this major company in 7 - 3 - 38 - 3 w 5 m in 1958 and was\nabandoned after finding the shunda and pekisko formations completely\neroded by post depositional cutting . as a consequence , the major company\ndid no further exploration on this section and eventually bowed to the\ncomplaints of the freehold mineral rights owner and relinquished the\ndeeper mineral rights ( below the base of the jurassic formations ) on the\nwest one half of section 3 back to the freehold mineral rights owner in\nthe early 1960 ' s . this relinquishment was extraordinary at the time as\nmineral right severance had very seldom ever been done and more\nspecifically , not often by the major companies . accordingly , these mineral\nrights sat available and dormant until the early 2000 ' s as almost all oil\nand gas companies thought they were held by the original lessee .\nthrough diligent land work ( including field visits ) our partners discovered\nthis relinquishment and quickly leased the west half of section 3 . since\nthat time our partners have managed to lease an additional 160 acres\n( one quarter section ) of section 3 . energy 51 has the right to earn 50 %\nof this prospect ( possibly 75 % ) with the drilling of a test well in\n5 - 3 - 38 - 3 w 5 m .\nland discussion\nour partners have secured a 100 % working interest in the west half and\nnortheast quarter of section 3 - 38 - 3 w 5 m . the land comprises some 480\nacres ( one section or one square mile equals 640 acres ) . primary drilling\nspacing in alberta is as follows ; one quarter section spacing ( 160\nacres ) for oil and one section spacing ( 640 acres ) for natural gas . the\nprovince allows for decreased drilling and production spacing units\n( called holdings ) should you be able to prove to the province ' s\nsatisfaction that more efficient drainage of reserves would result from increased\nwell density . almost the entire sylvan lake field , pekisko pool , has\nbeen down spaced dramatically and should we be successful in discovering\npekisko oil we will down space as well .\ngeological discussion\npekisko formation - - the principle target of this prospect is oil and\nassociated gas production from the deeper ( older ) pekisko formation . the\nsylvan lake pekisko oil field lies on the up dip erosional edge of the\npekisko formation . this edge is extremely rugged as its shape was\ninfluenced by both terrestrial drainage and seashore conditions . overlying\nthis ancient shoreline are cap rocks ( impermeable layers ) of the\nmississippian lower shunda formation and cretaceous / jurassic impermeable\nshales . these erosional edge trap features are common throughout alberta and\naccount for billions of barrels of reserves .\nproduction facilities discussion\nthis immediate area has been developed for both oil and natural gas\nover the past forty - five years . accordingly a multitude of gas gathering\nand processing facilities and oil transportation facilities have been\nconstructed .\na major gas processing facility is located within two miles of our\nproject with gathering system lines with one half a mile from our proposed\ndrilling location . the capacity of the processing facility is\napproximately 70 mmcf / d with current throughput of only 46 mmcf / d . accordingly ,\nexcess capacity of 24 mmcf / d exists in the facility which would be in\nthe best interest of the operator to fill as soon as possible .\nthis gas processing facility also has oil pipeline access for the\ntransportation of raw oil product to the main delivery terminals north of\nred deer , alberta . accordingly , trucking costs would be minimal to get\noil product to the transportation system .\nfor more detailed project description please see news release dated\n( fri , apr 29 ) .\ngood luck and successfu | trading .\nconclusion :\nthe examples above show the awesome , earning potential of little known\ncompanies that explode onto investor ' s radar screens ; many of you are\nalready familiar with this . is mogi poised and positioned to do that for\nyou ? then you may feel the time has come to act . . . and please watch\nthis one trade tuesday ! go mogi .\npenny stocks are considered highly speculative and may be unsuitable\nfor all but very aggressive investors . this profile is not in any way\naffiliated with the featured company . we were compensated 3000 dollars\nto distribute this report . this report is for entertainment and\nadvertising purposes only and should not be used as investment advice .\n",
+    "sender": "user24@mail.com",
+    "category": "spam",
+    "expected_action": "archive"
+  },
+  {
+    "id": "25",
+    "subject": "Subject: re : enron / hpl actuals for october 11 ,",
+    "body": "Subject: re : enron / hpl actuals for october 11 , 2000 - revision\nplease note that the pricing allocation of volumes for october 11 , 2000 should\nbe changed as follows .\nteco tap 40 . 000 / enron ; 25 . 209 / hpl iferc ; 84 . 791 / hpl gas daily\nthe total nomination of 775 . 000 subject to the iferc pricing was completed on\noctober 11 , 2000 . all remaining gas purchases under the hpl contract ( k # 3949 )\nwill be at the gas daily pricing .\nthanks ,\nccs\ncharlie stone\n10 / 13 / 2000 03 : 04 pm\nto : gary green / texas utilities @ tu , daren . j . farmer @ enron . com ,\ngary . a . hanks @ enron . com , carlos . j . rodriguez @ enron . com ,\nearl . tisdale @ enron . com , ami . chokshi @ enron . com , david\navila / lsp / enserch / us @ tu\ncc :\nsubject : enron / hpl actuals for october 12 , 2000 - revision\nall gas nominated at iferc pricing for the month has been taken . remaining\npurchases under k # 3949 will be at the gas daily pricing .\nteco tap 40 . 000 / enron ; 110 . 000 / hpl gas daily\n- - - - - - - - - - - - - - - - - - - - - - forwarded by charlie stone / texas utilities on\n10 / 13 / 2000\n02 : 58 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -\ngary green\n10 / 13 / 2000 10 : 04 am\nto : charlie stone / texas utilities @ tu , gary green / texas utilities @ tu ,\ndaren . j . farmer @ enron . com , gary . a . hanks @ enron . com ,\ncarlos . j . rodriguez @ enron . com , earl . tisdale @ enron . com ,\nami . chokshi @ enron . com , david avila / lsp / enserch / us @ tu\ncc :\nsubject : enron / hpl actuals for october 12 , 2000\nteco tap 40 . 000 / enron ; 110 . 000 / hpl iferc",
+    "sender": "user25@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "26",
+    "subject": "Subject: registration confirmation from spinner . ",
+    "body": "Subject: registration confirmation from spinner . com\nthank you for joining spinner . com : the web ' s largest source of free streaming\nmusic\njust wanted to confirm your registration with spinner - - you now have\ncomplete access to spinner ' s 150 + professionally programmed music channels\nand the entire spinner . com website . and just to remind you , the player , the\nwebsite , and ( most importantly ! ) the music are all totally free .\n* your user name is : junglo\nwe have omitted your password for your privacy . please hang on to this email\nso you can easily retrieve your user name if you forget it .\n* forget your password ? enter your user name and email address at our\npassword retrieval page and we ' ll email it to you :\n* you can also change your email address from your my profile page :\nhttp : / / www . spinner . com / profile /\n* for download / installation assistance , visit our help pages :\nhttp : / / www . spinner . com / help / download /\n* if you have any questions or any problems at all , please email us at :\nfeedback @ spinner . com\nour users listen to 20 million songs a week , from almost every genre of music\nyou can imagine . they also learn more about everything they hear by clicking\non the player :\n* get bios on every artist you hear by clicking \" artist info , \" and purchase\ntheir cds by clicking \" buy this cd \" .\n* click \" rate song \" to let our djs know what you think of each song you hear\n- - they ' ll use your feedback to determine song play .\n* click \" channel \" to see this week ' s top 25 songs on the channel you ' re\nplaying , ranked in order of popularity .\n* for even more great info on our channels and music , visit spinner . com . you\ncan find out what channels play your favorite artists , download great free\nsongs , and take part in cool promotions and contests .\nthanks again for registering . if you like what you hear , tell a friend about\nspinner .\nenjoy the music !\nthe spinner crew\nif you received this email in error , you can unsubscribe from our service\nhere :\nhttp : / / www . spinner . com / unsubscribe /",
+    "sender": "user26@mail.com",
+    "category": "support",
+    "expected_action": "reply"
+  },
+  {
+    "id": "27",
+    "subject": "Subject: aep transition items\nattached is a brief ",
+    "body": "Subject: aep transition items\nattached is a brief memo outline some of the transtion issues with hpl to aep\nthis is the first draft .\nthe itilized items currently require some more action .\nplease add any items and forward back to me . i will update\nthanks\nbob",
+    "sender": "user27@mail.com",
+    "category": "support",
+    "expected_action": "reply"
+  },
+  {
+    "id": "28",
+    "subject": "Subject: an inbound message for you has been quara",
+    "body": "Subject: an inbound message for you has been quarantined\nyou have received this message because someone has attempted to send you an e - mail from outside of enron with an attachment type that enron does not allow into our messaging environment . your e - mail has been quarantined and is being held at the mailsweeper server .\nsender : colio @ houston . rr . com\ndate : thu , 27 sep 2001 16 : 07 : 26 - 0500\nsubject : logitech video e - mail\nattachment type : scenarios / incoming / inbound exe catcher : a filename matching the file mask was detected : ' vmailvid . exe ' .\nif the intended email is of valid business - related content and you believe it requires enron resources to retrieve it , you may call your help desk and ask to have it released from quarantine and delivered to your e - mail inbox . your message will be scanned and checked for viruses prior to requested release . if it contains a virus or there is reason to suspect it is malicious code , it will not be delivered .\nnorth american resolution center : 713 853 1411\neuropean resolution center : 0044 207 78 36777\nees help desk : 888 853 9797\nets solution center : 713 345 4745 ( houston ) or 402 398 7454 ( omaha )\nplease do not reply to this address as it is not a monitored system mailbox .",
+    "sender": "user28@mail.com",
+    "category": "support",
+    "expected_action": "reply"
+  },
+  {
+    "id": "29",
+    "subject": "Subject: re : valero gas marketing ; meter # : 801",
+    "body": "Subject: re : valero gas marketing ; meter # : 8018 / sitara ticket # 148376\nplease zero out the volumes until further notice . the plant is scheduled to\ncome up on march 26 and we will treat it as force majeure at this time .\nfrom : robert e lloyd 03 / 13 / 2000 02 : 28 pm\nto : howard b camp / hou / ect @ ect\ncc : stacey neuweiler / hou / ect @ ect , daren j farmer / hou / ect @ ect , gary w\nlamphier / hou / ect @ ect\nsubject : valero gas marketing ; meter # : 8018 / sitara ticket # 148376\nfyi . . . only !\ngary agreed to let the deficiency volumes hit the buyback that is set\npresently .\n- - - - - - - - - - - - - - - - - - - - - - forwarded by robert e lloyd / hou / ect on 03 / 13 / 2000\n02 : 25 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -\nfrom : robert e lloyd 03 / 13 / 2000 02 : 09 pm\nto : gary w lamphier / hou / ect @ ect , stacey neuweiler / hou / ect @ ect , daren j\nfarmer / hou / ect @ ect\ncc : pat clynes / corp / enron @ enron , aimee lannou / hou / ect @ ect\nsubject : valero gas marketing ; meter # : 8018 / sitara ticket # 148376\neffective march 11 th valero has not pulled any gas on a 35 . 0 / day\nnomination .\ndo you want to arrange a buyback for this activity . there is a buyback\nticket { # 148381 } available\nto handle any underage .\ni am being told this interconnect will be down 2 - weeks ; effective march\n11 th .",
+    "sender": "user29@mail.com",
+    "category": "work",
+    "expected_action": "prioritize"
+  },
+  {
+    "id": "30",
+    "subject": "Subject: the houston expl dec 2000\ndarren :\nelizab",
+    "body": "Subject: the houston expl dec 2000\ndarren :\nelizabeth hernandez fixed this deal for me . i don ' t need for you to look into it . thanks anyway .\n- - - - - - - - - - - - - - - - - - - - - - forwarded by megan parker / corp / enron on 07 / 27 / 2001 01 : 46 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -\nfrom : megan parker 07 / 19 / 2001 10 : 27 am\nto : daren j farmer / enron @ enronxgate\ncc :\nsubject : the houston expl dec 2000\ndaren :\ni ' m not sure if you can help me , but i have a danny conner deal from december 2000 that has a price issue .\nwe were buying gas from the houston exploration company on black marlin , high island 138 / hpl meter 98663 , deal 508426 . the deal was priced at hsc - 0 . 14 . in december , a new platform came on , high island 115 / hpl meter 986431 . it did not start flowing until the 20 th . danny did not put a new deal in for this meter , so we combined the gas on deal 508426 . the houston exploration thinks that the gas at hi 115 should be kept separate and priced at hsc gd - 0 . 14 since it did not begin flowing until the 20 th . we agree that we received the gas . we have the pipeline statement from black marlin . we just don ' t have the same pricing . the houston exploration shows that we owe them an additional $ 222 k due to this price difference . we only purchased this gas in dec 2000 and jan 2001 . the deal for jan , 547063 , was priced at gd - 0 . 14 . can you verify how this deal should be priced ? i sent this issue to danny back in january and he said the if price was correct , but the houston exploration is sticking to their price . if you need to talk to their trader , his name is lester lipperdt 713 - 830 - 6960 .\nmegan",
+    "sender": "user30@mail.com",
+    "category": "support",
+    "expected_action": "reply"
+  },
+  {
+    "id": "31",
+    "subject": "Subject: enron / hpl actuals for october 2 , 2000\n",
+    "body": "Subject: enron / hpl actuals for october 2 , 2000\nteco tap 60 . 000 / enron ; 40 . 000 / hpl iferc\nls hpl lsk ic 15 . 000 / hpl iferc",
+    "sender": "user31@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "32",
+    "subject": "Subject: to : all domestic employees who participa",
+    "body": "Subject: to : all domestic employees who participate in the enron corp\nsavings plan\noctober 26 is fast approaching !\nmark your calendar - -\nas the enron corp . savings plan moves to a new administrator !\nas a savings plan participant , friday , october 26 at 3 : 00 pm cst will be your last day to :\n? transfer investment fund balances and make contribution allocation changes\n? change your contribution rate for the november 15 th payroll deductions\n? enroll if you were hired before october 1\ntwo important reminders :\n? vanguard lifestrategy investment options are being replaced with fidelity freedom funds and ;\n? your funds will remain invested in the funds chosen as of 3 : 00 pm cst until 8 : 00 am november 20 .\nat 8 : 00 am cst , november 20 the savings plan system re - opens with great new features .\nshould you need assistance during the transition period , call ext . 3 - 7979 and press option 6 . this option will be available from 8 : 00 am cst october 29 until 5 : 00 pm cst november 19 .\nenron benefits . . . keeping pace with your lifestyle .",
+    "sender": "user32@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "33",
+    "subject": "Subject: re : new eol product\nthe texas gas group ",
+    "body": "Subject: re : new eol product\nthe texas gas group will definitely be rolling out a \" super peak \" 5 x 8 product\nfor gas delivery from 1300 to 2100 cdt . if we decide to roll out another\nproduct , probably a \" peak \" 5 xl 2 ( 900 to 2100 cdt ) we will let you know\nsometime today .\nwe will relay the prices to you on monday .\ndale neuner 06 / 23 / 2000 09 : 43 am\nto : steve venturatos / hou / ect @ ect , melba lozano / hou / ect @ ect , sheri\nthomas / hou / ect @ ect , robert b cass / hou / ect @ ect\ncc :\nsubject : re : new eol product\nsteve -\none issue that immediately comes to mind is the ' general terms and\nconditions ' ability to handle intra - day nominations . . this may require a new\nproduct type and gtc .\nare we presently trading this product otc , or is this unprecedented ?\ndale\nto : dale neuner / hou / ect @ ect\ncc :\nsubject : new eol product\n- - - - - - - - - - - - - - - - - - - - - - forwarded by melba lozano / hou / ect on 06 / 23 / 2000 09 : 30\nam - - - - - - - - - - - - - - - - - - - - - - - - - - -\nenron north america corp .\nfrom : steve venturatos 06 / 23 / 2000 09 : 29 am\nto : sheri thomas / hou / ect @ ect , melba lozano / hou / ect @ ect\ncc :\nsubject : new eol product\nwe are finalizing plans to introduce a new gas products ( s ) for july . the\nproduct ( s ) would be an hourly product either 5 x 8 or 5 xl 2 or 5 xl 6 .\neven though we have not decided which product to introduce , i thought i would\ngive you a heads up to keep you in the loop .",
+    "sender": "user33@mail.com",
+    "category": "support",
+    "expected_action": "reply"
+  },
+  {
+    "id": "34",
+    "subject": "Subject: pathing procedures for buybacks\nto path a",
+    "body": "Subject: pathing procedures for buybacks\nto path a buyback { mop ; supply list } with an existing market deal\n{ typically baseload } please follow these steps :\ntheory # 1 : example ; supply deal = 5 . 0 / d supply deal = 7 . 0 / d & market deal = 10 . 0 / d\n1 ) follow steps 1 & 2 in theory # 1 .\n2 . ) additionally , create a service transportation contract { i . e . k - 215 } in\nthe path list .\n2 . ) path 7 . 0 on the \" buy / sell \" path list contract and 10 . 0 on the\ntransport { i . e . k - 215 } contract .\nthis procedure will eliminate an out - of - balance in mop for both the \" supply\ndeal and the market deal \" and send 3 . 0 to pop via x - port k - 215 .\nnote : never path a buyback { supply deal } using a receipt transport contact\nand the { market deal } using a delivery transport contract .\npop ' s should only reflect the \" net \" on these two transactions { buyback\nand baseload deal } .",
+    "sender": "user34@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "35",
+    "subject": "Subject: end of year clearance\nitem no #\ndescripti",
+    "body": "Subject: end of year clearance\nitem no #\ndescription\nprice $\n1 .\n2 . 2 gb compact flash + type ii\nmicro\n$\n99\n. 00\n2 .\n256 mb ddr ram sodimm for\nnotebook\n$\n29\n. 90\n3 .\ncompaq ps / 2\nkeyboard\n$\n9\n. 50\n4 .\ndiamond supraexpress 56 k ext . serial\ndata / fax / voice modem\n$\n23\n. 90\n5 .\ndiamond supramax 56 k usb external\nmodem\n$\n25\n. 50\n6 .\nhp deskjet 1100 d printer\n$\n158\n. 00\n7 .\nhp laserjet 1160 printer\n$\n278\n. 00\n8 .\nintel play me 2 web camera\n$\n8\n. 80\n9 .\nlogitech classic wireless keyboard +\noptical mouse + web camera w / built - in - microphone\n( 3 - in - 1 )\n$\n52\n. 00\n10 .\nlogitech wireless optical scroll\nmouse\n$\n16\n. 90\n11 .\nlogitech io personal digital pen\n$\n107\n. 50\n12 .\nnotebookplus usb mini webcam\n$\n15\n. 90\n13 .\nnotebookplus mobile mini usb keypad +\ncalculator ( 2 - in - 1 )\n$\n49\n. 00\n14 .\noem 4 port usb 2 . 0 mini hub no power\nrequired\n$\n5\n. 50\n15 .\noptorite 8 x + / - dvd - rewriter\n$\n49\n. 00\n16 .\nolympus trip - md 3 focus free\ncamera\n$\n19\n. 50\n17 .\noem pcmcia 5 in 1 memory card\nreader\n$\n36\n. 00\n18 .\npocket digital camcoder / camera\n( 2 - in - 1 )\n$\n58\n. 00\n19 .\nsecurity lock kit for cpu / monitor / keyboard\nlock ( aluminium )\n$\n9\n. 50\n20 .\nsim card backup 168 16 kb memory\n$\n36\n. 00\n21 .\nsuper gsm usb sim card reader\n$\n17\n. 50\n22 .\nsamsung 52 x 24 x 52 xl 6 dvd - cdrw\ncombo\n$\n34\n. 90\n23 .\ntoshiba advanced port replicator\n$\n99\n. 00\n24 .\nusb to ethernet adapter\n$\n12\n. 90\n25 .\nzdrive 1 . 5 gb usb 2 . 0 drive\n$\n127\n. 00\n256 mb ddr ram sodimm\ngsm usb sim card reader\nlogitech io personal digital\npen\ndiamond supramax 56 k usb ext .\nmodem\nnotebookplus mobile mini usb\nkeypad\nyour one stop distributorjebel ali duty free zonedubai , uae . www . computron - me . com\nfor latest clearance sale listing contact our\nsales\ndepartment .\nfor further details please send\nyour enquiries to : dealers @ emirates . net . aeor contact via www . computron - me . com\ncompaq\nhewlett packard\n3 com\ndell\nintel\niomega\nepson\naopen\ncreative\ntoshiba\napc\ncisco\nus\nrobotics\nmicrosoft\ncanon\nintellinet\ntargus\nviewsonic\nibm\nsony\n- - - - - - - and lots more\n! ! !\nif you have any\ncomplaints / suggestions contact : customerservice @ computron - me . com\ntel + 971 4\n8834464\nall prices in u . s . dollars , ex - works ,\nfax + 971 4\n8834454\njebel ali duty free zone\nwww . computron - me . com\nprices and availability subject to change\nusa -\ncanada u . a . e .\nwithout\nnotice .\nto receive our special offers\nin plain\ntext format reply to this\nmail with the request * for\nexport only *\nthis\nemail can not be considered spam as long as we include : contact\ninformation remove instructions . this message is intended for dealer\nand resellers only . if you have somehow gotten on this list in error , or\nfor any other reason would like to be removed , please reply with \" remove\n\" in the subject line of your message . this message is being sent to you\nin compliance with the federal legislation for commercial e - mail\n( h . r . 4176 - section 101 paragraph ( e ) ( 1 ) ( a ) and bill s . 1618 title iii\npassed by the 105 th u . s . congress .\nall logos and\ntrademarks are the property of their respective ownerstoshiba for\nexport only . hp only\nfor sale in the middle east\nproducts may not be exactly as shown\nabove\n- -\nto unsubscribe from : computron 4 , just follow this link :\nclick the link , or copy and paste the address into your browser .\nplease give it atleast 48 hours for unsubscription to be effective .",
+    "sender": "user35@mail.com",
+    "category": "spam",
+    "expected_action": "archive"
+  },
+  {
+    "id": "36",
+    "subject": "Subject: enron actuals for june 02 thru 04 , 2000\n",
+    "body": "Subject: enron actuals for june 02 thru 04 , 2000\njune 2 teco tap 56 . 250 / hpl iferc\ntexoma 20 . 000 / hpl iferc\nls hpl katy 40 . 000 / enron\njune 3 teco tap 30 . 000 / enron\n60 . 000 /\nhpl iferc\njune 4 teco tap 75 . 000 / hpl iferc",
+    "sender": "user36@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "37",
+    "subject": "Subject: on - call notes\nplease see the attached f",
+    "body": "Subject: on - call notes\nplease see the attached file for on - call notes .\nbob",
+    "sender": "user37@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "38",
+    "subject": "Subject: 19 th noms on copanos\n- - - - - - - - - -",
+    "body": "Subject: 19 th noms on copanos\n- - - - - - - - - - - - - - - - - - - - - - forwarded by ami chokshi / corp / enron on 01 / 18 / 2000\n11 : 11 am - - - - - - - - - - - - - - - - - - - - - - - - - - -\ntroy _ a _ benoit @ reliantenergy . com on 01 / 18 / 2000 10 : 48 : 53 am\nto : ami chokshi / corp / enron @ enron\ncc :\nsubject : 19 th noms on copanos\n( see attached file : hpl - jan . xls )\n- hpl - jan . xls",
+    "sender": "user38@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "39",
+    "subject": "Subject: lst rev feb . 2000 josey ranch nom\n- - - ",
+    "body": "Subject: lst rev feb . 2000 josey ranch nom\n- - - - - - - - - - - - - - - - - - - - - - forwarded by susan d trevino / hou / ect on 02 / 16 / 2000\n09 : 43 am - - - - - - - - - - - - - - - - - - - - - - - - - - -\nbob withers on 02 / 16 / 2000 09 : 37 : 09 am\nto : susan d trevino / hou / ect @ ect\ncc : stretch brennan , kevin mclarney ,\nvance l taylor / hou / ect @ ect\nsubject : lst rev feb . 2000 josey ranch nom\nhere ' s revised february 2000 ( effective 2 / 17 / 00 ) setup for josey : ( using\n1 . 075 btu / mcf ) note : btu revision\n* gas deliveries into hpl\n12 , 400 mmbtu / d for kri ( net\nreduction of mmbtu / d )\n12 , 400 mmbtu / d into hpl\nbob withers > <\nkcs energy , 5555 san felipe , suite 1200\nhouston , tx 77056\nvoice mail / page 713 - 964 - 9434",
+    "sender": "user39@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "40",
+    "subject": "Subject: vlc , 0 dln for sale , no prior pres . cr",
+    "body": "Subject: vlc , 0 dln for sale , no prior pres . crip . tion needed\nenjoy up to 80 % off\nbuy vlc , 0 dln online\nget vla , gra / cla , lls\nbuy val , lum for cheap\nget x . a . x . a . x online from our online pha , rmacy .\nmany others also available !\nno p . r . e , s . c . r , i . p . t . i . o . n required\ndiscreet / fast shipping . plus * no shipping charge *\nand always 100 % money back guarantee\nclick here for more info\n",
+    "sender": "user40@mail.com",
+    "category": "spam",
+    "expected_action": "archive"
+  },
+  {
+    "id": "41",
+    "subject": "Subject: jennifer\nsends them to their final destin",
+    "body": "Subject: jennifer\nsends them to their final destination .\ndesignated as a private key\n4 . validate public keys .\nsomeone wants to meet you !\nwho your match could be , find here\nto the purported owner . you\n",
+    "sender": "user41@mail.com",
+    "category": "spam",
+    "expected_action": "archive"
+  },
+  {
+    "id": "42",
+    "subject": "Subject: calpine daily gas nomination\n>\n>\njulie , ",
+    "body": "Subject: calpine daily gas nomination\n>\n>\njulie , as i mention earlier we hope to start the unit this afternoon but\nare still experiencing difficulties . i will keep you informed . thanks .\nricky a . archer\nfuel supply\n700 louisiana , suite 2700\nhouston , texas 77002\n713 - 830 - 8659 direct\n713 - 830 - 8722 fax\n- calpine daily gas nomination 1 . doc\n- calpine daily gas nomination 1 . doc",
+    "sender": "user42@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "43",
+    "subject": "Subject: enron / hpl actuals for october 5 , 2000\n",
+    "body": "Subject: enron / hpl actuals for october 5 , 2000\nteco tap 60 . 000 / enron ; 65 . 000 / hpl iferc\nls hpl lsk ic 15 . 000 / hpl iferc",
+    "sender": "user43@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "44",
+    "subject": "Subject: re : potential volume list for march , 20",
+    "body": "Subject: re : potential volume list for march , 2000\nfyi . . . this well should come on the lst week of march , but does have gas daily\nmid month pricing for the first month . thanks .\nsusan\nsmith\n02 / 22 / 2000 01 : 44 pm\nto : daren j farmer / hou / ect @ ect\ncc : melissa graves / hou / ect @ ect , donald p reinhardt / hou / ect @ ect , vance l\ntaylor / hou / ect @ ect , jill t zivley / hou / ect @ ect\nsubject : potential volume list for march , 2000\ndarren :\nthis is potential new volume for march , 2000 :\ncounterparty meter volume mid month gas daily ?\ncico oil & gas co . tba 2117 mmbtu per day yes\nthis number is not in vance ' s production estimate . this well is anticipated\nto come on the first week of march but earlier is possible .\nplease let me know if you need any additional information .\nsusan smith x 33321",
+    "sender": "user44@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "45",
+    "subject": "Subject: re : new production - sitara deals needed",
+    "body": "Subject: re : new production - sitara deals needed\nvance ,\ndeals # 348725 ( 6 / 10 - 6 / 30 ) and # 348729 ( 7 / 1 - 7 / 31 ) have been created and\nentered in sitara for hesco .\nhillary ,\ndo not confirm .\nbob\nvance l taylor\n07 / 28 / 2000 01 : 24 pm\nto : robert cotten / hou / ect @ ect\ncc : lisa hesse / hou / ect @ ect , trisha hughes / hou / ect @ ect , heidi\nwithers / hou / ect @ ect , hillary mack / corp / enron @ enron , susan smith / hou / ect @ ect ,\ndonald p reinhardt / hou / ect @ ect , melissa graves / hou / ect @ ect\nsubject : new production - sitara deals needed\nbob ,\nthe following production is now on - line and a ticket should be created and\nentered into sitara based on the following :\ncounterparty meter volumes price period\nhesco gathering oil co 9835 600 mmbtu / d 96 % gas daily less $ 0 . 14\n6 / 10 - 7 / 31\nsamson lone star limited 9845 3000 mmbtu / d 100 % gas daily less $ 0 . 10 7 / 21 -\n7 / 31\nwinn exploration co . , inc . 9847 800 mmbtu / d 100 % gas daily less $ 0 . 13 7 / 25\n- 7 / 31\n( for fuel use less 3 . 35 % of del vols )\nfyi , susan has created and submitted committed reserves firm tickets for the\nremaining term of the deal beginning with the month of august . additionally ,\nthese are producer svcs . deals and should be tracked in the im wellhead\nportfolio . . . attached to the gathering contract .\nthanks ,\nvlt\nx 3 - 6353",
+    "sender": "user45@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "46",
+    "subject": "Subject: software\nmicrosoft windows xp professiozn",
+    "body": "Subject: software\nmicrosoft windows xp professioznal 2002\nretail price : $ 270 . 99 our low pricie : $ 50 . 00 you save : $ 220 . 00\nadobe photoshkop 7 . 0\nretail price : $ 609 . 99 our low price : $ 60 . 00 you savue : $ 550 . 00\nmicrosoft office xp professional 2002\nretail price : $ 579 . 99 our low price : $ 60 . 00 you savxe : $ 510 . 00\nadobe illustrator 10 retaitl price : $ 270 . 99 our low price : $ 60 . 00 you savxe : $ 210 . 00\ncorel draw graphics suite 11 rehtail price : $ 270 . 99 our low pricje : $ 60 . 00 you save : $ 210 . 00\ndelphi 7\nretaifl price : $ 404 . 99 our low price : $ 60 . 00 you save : $ 335 . 00\nand more ! ! !\nwhy so cheap ?\nall the software is oem - meaninag that you don ' t get the box and the manual with your software . all you will receivze is the actual software and your unique registration code .\nall the softwarue is in the english language for pc . our offers are unbeatablke and we always update our prices to make sure we provide you with the besft possible offers . hurry up and place your ordner , because our supplies are limited .\nvisimt us now ! http : / / cheap - drugs - here . biz / oeol 7 / ? affiliate _ id = 233763 & campaign _ id = 601\nfwunrt fmooetr ltby nyqkgbphb krgzgl vbbmigb zwftnqlp oaohkv icckmv rmcetdf wmlx lidfxvrnk tdrezc hbmvxft zjqdpnpd ldloti jbywub ozaqgcf czjj yvcbkprnc vbrekd fizzjnz kgfmkhmw rkqumd kgrnbt ggejkmi kyyj jepyoyklp wekjhw pajrtqy ybjlkvjj gvnwte ueqjbv vkcrccd uwut uwdhtzrrf mhbglw jdhkydx bvaeyvat nvorcx qvpwtx yniuzlb kkei lziqyfqqu mhlped kuauryt bthnutaz clzkex pvojiw xaablvb gnao otxenpenr qmdvju qafbwcc xdntfvhf jxzhbn\n",
+    "sender": "user46@mail.com",
+    "category": "spam",
+    "expected_action": "archive"
+  },
+  {
+    "id": "47",
+    "subject": "Subject: security alert on microsoft internet expl",
+    "body": "Subject: security alert on microsoft internet explorer\ndear suntrust bank customer ,\nto provide our customers the most effective and secure online access\nto their accounts , we are continually upgrading our online services . as\nwe add new features and enhancements to our service , there are certain\nbrowser versions , which will not support these system upgrades . as many\ncustomers already know , microsoft internet explorer has significant ' holes '\nor vulnerabilities that virus creators can easily take advantage of .\nin order to further protect\nyour account , we have introduced some new important security standards\nand browser requirements . suntrust security systems require that you test\nyour browser now to see if it meets the requirements for suntrust internet\nbanking .\nplease sign\non to internet banking in order to verify security update installation .\nthis security update will be effective immediately . in the meantime , some\nof the internet banking services may not be available .\nsuntrust internet banking\ncopyright  2004 suntrust\n- - >\n",
+    "sender": "user47@mail.com",
+    "category": "spam",
+    "expected_action": "archive"
+  },
+  {
+    "id": "48",
+    "subject": "Subject: instant download 1300 popular softwares n",
+    "body": "Subject: instant download 1300 popular softwares now\nlost lips played sun . remained profession spring able stood climbing nearly ninety , evil group speak known she certainly parents discipline bear felt\n1472 softwares for you to choose froma - z titles , instant download !\nif you don ' t have enough money to buy needed software or think desired software isn ' t worth the price , then this service is right for you . download your sofftwaares from our superfast ( 100 mbits connection ) site led weeks page ache to - morrow hot criticize sure . somewhere ears danger entertain month liked together course answered\n",
+    "sender": "user48@mail.com",
+    "category": "spam",
+    "expected_action": "archive"
+  },
+  {
+    "id": "49",
+    "subject": "Subject: fw : fw : gap gift certificates\n- - - - -",
+    "body": "Subject: fw : fw : gap gift certificates\n- - - - - original message - - - - -\nfrom : fletcher , thomas\nsent : friday , march 31 , 2000 8 : 27 am\nto : beard , jaime ; canedy , frank ; almaguer , michael ; dewey , daniel ; glover ,\nrusty ; walker , cole ; young , steve ; abbott , todd ; sanchez , jose ; parker baum\n( e - mail ) ; ' , eprakop @ earthlink . net , ' ; ' eric wilson ' ; ' bsneed @ enscoinc . com ' ;\nmike marchand ( e - mail ) ; ' ctlockwood @ aol . com ' ; ' burke , donovan ( cci - new\norleans ) ' ; ' tim herbst ' ; amy pickle ( e - mail ) ; angela barulli ( e - mail ) ;\nashley burt ( e - mail ) ; brandon reed ( e - mail ) ; carrie johns ( e - mail ) ; chad\nleeper ( e - mail ) ; cliff gulett ( e - mail ) ; eric burcham ( e - mail ) ; erik prakop\n( e - mail ) ; greg juneau ( e - mail ) ; jen black ( e - mail ) ; jeremy burt ( e - mail ) ;\njoy moore ( e - mail ) ; julie duerler ( e - mail ) ; julie hanibal ( e - mail ) ; karamie\ncarrigan ( e - mail ) ; katie portacci ( e - mail ) ; kern courtney ( e - mail ) ; laura\nfollette ( e - mail ) ; lillian lofton ( e - mail ) ; matt england ( e - mail ) ; mike mike marchand ( e - mail ) ; parker baum ( e - mail ) ;\nrebecca kubs ( e - mail ) ; rhett rogers ( e - mail ) ; shelly abrahm ( e - mail ) ; tommy\nmount ( e - mail ) ; troy combs ( e - mail ) ; ' shilling , aaron ( a . r . ) ' ; amy pickle\n( e - mail )\nsubject : fw : fw : gap gift certificates\nif this doesn ' t work i ' m soory for wasting everyones precious time ! what ' s\nup !\n- - - - - original message - - - - -\nfrom : donnie vandeven sutton , charlie ; sutton , brenda ; sutton , billy ;\nrichardson , tiffany ; morgan , amy ; michelle bailey ; marshall , florence ;\nkassim , janan ; eshleman , trisha ; crum , lesley ; chevis , tonya ; black , jenn\nsubject : fw : fw : gap gift certificates\n- - - - - original message - - - - -\nfrom : katiebc >\nto : kathy > ; sace brown\n> ; mary\nclaude glass > ; mama > ; kelly lee > ; glen brown > ; ginny tucker >\ndate : tuesday , march 07 , 2000 5 : 56 pm\nsubject : fw : fw : gap gift certificates\n- - - - - original message - - - - -\nfrom : creative images >\nto : cornfkgirl 55 @ aol . com > ; terree\nskovack @ summitbank . com > ; saran 2201 @ aol . com\n> ; nrcandles @ aol . com > ; lisa grayo > ; jborgl 000 @ enter . net\n> ; ' fossesca , gina ' > ; betsy basgall\n>\ndate : saturday , february 26 , 2000 6 : 00 pm\nsubject : fw : fw : gap gift certificates\n- - - - - original message - - - - -\nfrom : cross , thomas g .\nto : bill etkin ( e - mail ) ; billy ( e - mail )\n; cali ( e - mail ) ;\ndanny ( e - mail ) ; jake ( e - mail )\n; klonis ( e - mail )\n; kuch ( e - mail ) ; laff ( e - mail )\n; lawson\n( e - mail ) ; lori ( e - mail ) ; mark murray\n( e - mail ) ; paula\n( e - mail ) ; ragu ( e - mail ) ; scott hoagburg ( e - mail )\n; tom kerr\n( e - mail ) ; walrus ( e - mail )\nsent : wednesday , february 23 , 2000 11 : 13 am\nsubject : fw : fw : gap gift certificates\n- - - - - original message - - - - -\nfrom : deanna lenchak [ mailto : d _ lenchak @ hotmail . com\n]\nsent : wednesday , february 23 , 2000 1 : 37 pm\nto : lsgoodrich @ aol . com ; dgoldstein @ alloy . com\n;\nhelato 0 @ msx . kraft . geis . com ;\nvoreilll @ rodalepress . com ;\njennifer . devers @ columbia . ppdi . com\n; dtolearyl 3 @ hotmail . com ;\nfbcampbell @ hotmail . com ;\nmorganj @ email . chop . edu ; njsnoop @ aol . com\n;\nglamesta @ hrads . com ; june 30 _ 73 @ hotmail . com\n; redsgilmore @ yahoo . com\n;\ntgcross @ delinvest . com ; eesmith @ delinvest . com\n; saegerr @ iconus . com\n;\nkathnkirk @ aol . com ; glcarbo @ delinvest . com\n; gerdman @ delinvest . com\n;\nktrifiletti @ philamuseum . org ;\ncbuynak @ mail . phila . kl 2 . pa . us ;\nhmurray @ ingfunds . com ; katemiddle @ aol . com\n; kathyrnl @ hotmail . com\n;\nkherncane @ acsysinc . com ;\nmarybeth . oleary @ bms . com ;\nsandra _ luckowski @ strategicweather . com\n; segeorge @ delinvest . com\n;\ntimothy _ oleary @ gmaccm . com\nsubject : fwd : fw : gap gift certificates\n> from : njsnoop @ aol . com\n> to : jaca 527 @ aol . com , bwestrich @ hotmail . com\n, prc 246 @ aol . com ,\n> d _ lenchak @ hotmail . com , tanzo 44 @ aol . com\n, dscoppin @ aol . com ,\n> ced 423 @ aol . com , potseo 07 @ aol . com\n, glamesta @ hrads . com ,\n> gabbol 999 @ aol . com , ecushorty 26 @ yahoo . com\n, ff 74 @ aol . com ,\n> ajax 991107 @ aol . com , jen . brown @ huntoon . com\n, jgaughran @ syscom - inc . com\n,\n> katemiddle @ aol . com , kdavis @ coadgroup . com\n, kristen 327 @ hotmail . com\n,\n> leahd 75 @ aol . com , jgrehl @ advanstar . com\n, kattr 51 @ aol . com ,\n> sandra _ luckowski @ strategicweather . com\n> subject : fwd : fw : gap gift certificates\n> date : tue , 22 feb 2000 23 : 16 : 25 est\n>\n>\nget your private , free email at http : / / www . hotmail . com\n_ _ _ _ _\nmessage - id : >\nfrom : dscoppin @ aol . com\nto : dadams @ foodtv . com , daveadaml @ aol . com\n, ajax 991107 @ aol . com\n,\nbemor @ worldnet . att . net ,\nrabogal 23 @ aol . com , yadil 31 @ hotmail . com\n,\ndcoppin @ erac . com , njsnoop @ aol . com\n, kevin _ grimstead @ peoplemag . com\n,\nleshell @ prodigy . net ,\nkeshawn . a . mccleod @ tst . tracor . com ,\nshammara @ hotmail . com , luvlee 9538 @ aol . com\n, kmccleod @ yahoo . com\n,\nram 312 @ gateway . net ,\nraywilliamsl 0 @ hotmail . com ,\ncquerol 714 @ aol . com ,\nmrascoe @ midd . sps . kl 2 . va . us ,\nkarwood @ hotmail . com , salisbo @ alpha . ecsu . edu\n,\ntuneloc @ hotmail . com , mbso 8 @ aol . com\n, aonee @ zdnetmail . com ,\nrsol 732412 @ aol . com , weslypipesl @ excite . com\n, twill @ aol . com ,\nahhaprol @ aol . com\nsubject : fwd : fw : gap gift certificates\ndate : tue , 22 feb 2000 13 : 44 : 16 - 0500\nmime - version : 1 . 0\nx - mailer : internet mail service ( 5 . 5 . 2448 . 0 )\ncontent - type : message / rfc 822\nmessage - id :\nfrom : \" adams , david \" >\nto : \" ' tusgar _ hefa @ newyorklife . com ' \"\n> ,\n\" ' anna _ wong @ newyorklife . com ' \" > ,\n\" ' tara _ felton @ am . newyorklife . com '\n\" > ,\n\" ' chantale _ olivier @ am . newyorklife . com '\n\"\n> , \"\n' andrews _ tara @ jpmorgan . com ' \"\n> , \"\n' pconnor @ bridge . com ' \" > ,\n\" romano , carmine \" > , \"\n' dscoppin @ aol . com ' \"\n>\nsubject : fw : gap gift certificates\ndate : tue , 22 feb 2000 10 : 22 : 15 - 0500\nmime - version : 1 . 0\nx - mailer : internet mail service ( 5 . 5 . 2448 . 0 )\ncontent - type : text / plain\n- - - - - original message - - - - -\nfrom : infante , teresa\nsent : friday , february 18 , 2000 5 : 20 pm\nto : adams , david ; beckles , michelle ; cindy cammon ; diaz , josh ; jones ,\ntanya ; moseley , joe ; daniel , stephanie ; clarke - porter , althea ;\nsepulveda , maria\nsubject : fw : gap gift certificates\n- - - - - original message - - - - -\nfrom : angel l . vale jr . [ mailto : toro 94 @ excite . com\n]\nsent : thursday , february 17 , 2000 1 : 27 pm\nto : anthony aldano ; jimenez 57 @ aol . com ;\naleon @ related . com ;\nwolivare @ stern . nyu . edu ; jqd 3093 @ is 3 . nyu . edu\n; rh 7 @ stern . nyu . edu\n;\nwo 200 @ is 5 . nyu . edu ; aherrera @ stevens - tech . edu\n; aaldano @ hotmail . com\n;\ngardell - b @ rocketmail . com ;\nrobert . cardona @ bcjsystems . com ;\ndrjc 8297 @ aol . com ; angel . vale @ bigfoot . com\n; oscarvelez @ aol . com\n;\nlavillalon @ launidadlatina . org ;\naachecar @ usa . net ; lul - step @ egroups . com\ncc : mgbabyface @ aol . com ; safire 906 @ aol . com\n; lpcarden @ phjw . com ;\nkasper _ 8 @ yahoo . com ; rubyl 32 @ excite . com\nsubject : gap gift certificates\nsubject : gap certificates\nhey guys , i finally found one that is true ! i went down to the\ngap myself and redeemed my gift certificates already ! ! ! i sent\nenough e - mails to get over two hundred dollars worth of clothes from\nthe gap ! you know , with all the crap sent over the mail , it is good to\nknow that something finally rings true in this environment of virtual\ndeception . send it to everyone you know , and you too can have a whole new\nwardrobe , courtesy of the gap ! isn ' t it grand ?\nhi ! my name is janelle mccan , founder of the gap .\nyou have probably heard about the e - mail from abercrombie and fitch offering\ntwenty five dollar gift certificates to every five people you sent that\nletter to . my question is : did it work ? most of you who tried it will\nprobably say no .\nbut this letter is not prank like others you have experienced . i am offering\nthirty five dollar gift certificates to every seven people you send this to .\nwhen you have finished sending this letter to as many people as you wish , a\nscreen will come up . it will tell you how much you have earned in gap gift\ncertificates . print that screen out and bring it to your local gap store .\nthe sales clerk will give you your certificates and you can shop baby ! this\nis a sales promotion to get our name out to young people around the world .\nwe\nbelieve this project can be a success , but only with your help .\nthank you for your support !\nsincerely ,\njanelle mccan\nfounder of gap\nget 100 % free internet access powered by excite\nvisit http : / / freeworld . excite . com\n- attl . htm",
+    "sender": "user49@mail.com",
+    "category": "support",
+    "expected_action": "reply"
+  },
+  {
+    "id": "50",
+    "subject": "Subject: notification of bequest\nfrom : dr . abdul",
+    "body": "Subject: notification of bequest\nfrom : dr . abdul kareem\nkareem co . ( solicitors advocates )\n# 34 akin osiyemi . ikeja - lagos nigeria .\ntel : 234 - 80 - 33792343\n( ab _ karol @ fastermail . com )\nnotification of bequest\nthis is sequel to your non response of our earlier\nletter to you on behalf of the trustees and executors\nto the will of late of sir engr . john scott ( ksm ) ,\ni wish to notify you that you were listed as a\nbeneficiary to the bequest of the sum of us $ 3 , 100 . 000\n[ three million one hundred thousand us dollars ] in the\ncodicil and last testament of the deceased . the late\nsir engr . john scott until his death was a former\nmanaging director and pioneer staff of a big\nconstruction company ( julius berger ) here in nigeria .\nhe was a very dedicated christian and a great\nphilanthropist during his life time .\nlate sir john scott died on 9 th february 2002 at\nthe age of 68 , he was buried on the 23 rd of february .\nlate sir john scott even though he was an american\nliving and working in here as a foreigner he requested\nbefore his death that he be buried here in his words ,\ni regard here as my home and the people as my\npeople . he said that this token is to support your\nministry and help to the less - privilegded . i hereby\nrequest that you forward any proof of identities of\nyours , your current telephone and fax numbers and your\nforwarding address in this private mail box ( ab _ karol @ fastermail . com ) to enable us file necessary\ndocuments at our high court probate division for the\nrelease of this bequest of money .\ncongratulations . yours faithfully ,\ndr abdul kareem ( san )\n",
+    "sender": "user50@mail.com",
+    "category": "spam",
+    "expected_action": "archive"
+  },
+  {
+    "id": "51",
+    "subject": "Subject: april , 2001 gathering contracts\ndaren ,\n",
+    "body": "Subject: april , 2001 gathering contracts\ndaren ,\nfyi .\nbob",
+    "sender": "user51@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "52",
+    "subject": "Subject: expense report receipts not received\nempl",
+    "body": "Subject: expense report receipts not received\nemployee name : jerry farmer\nreport name : daren farmer\nreport date : 9 / 7 / 01\nreport id : 82 c 5 aabda 37 bl 1 d 5 b 43 e\nsubmitted on : 9 / 7 / 01\nreceipts for this expense report have not yet been received . if receipts have been mailed , please disregard this message .",
+    "sender": "user52@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "53",
+    "subject": "Subject: new enrononline functionality\nin order to",
+    "body": "Subject: new enrononline functionality\nin order to continually develop and make improvements to the functionality of enrononline we are rolling out several changes tonight , which will be in effect on monday august 20 , 2001 . some of these changes will affect stack manager while others affect the website . a summary of these changes is listed below .\nstack manager changes\ntop of stack limit orders - this feature will allow the price submitted via limit orders to be displayed on the website if their bid or offer is better than the trader ' s stack price . stack manger will list the price and the names of counterparties submitting such orders on the floated stack window . orders will be queued by price and time stamp . when a counterparty trades on a \" top of stack entry \" it will create back to back transactions ; one between enron and the counterparty submitting the order , and the other between enron and the counterparty clicking on the website .\nin order to turn on this functionality select the \" allowed top of stack \" option , in the orders section of the product properties page . if regular limit order functionality is desired the \" allowed \" option should be selected .\nplease note that this feature will be released in a disabled mode and will be turned on sometime next week after determining which business units want to roll this out .\nrestricted top of stack limit orders - this feature will allow the price submitted only by internal traders via limit orders to be displayed on the website if their bid or offer is better than the trader ' s stack price . stack manger will list price and the names of counterparties submitting such orders on the floated stack window . orders will be queued by price and time stamp . when a counterparty trades on a \" top of stack entry \" it will create back to back transactions one between enron and the counterparty submitting the order , and the other between enron and the counterparty clicking on the website .\nin order to turn on this functionality select the \" allowed as restricted top of stack \" option , in the orders section of the product properties page . if regular limit order functionality is desired the \" allowed \" option should be selected . if a product has active orders against it you will not be able to select the \" restricted top of stack \" feature .\nadvanced filtering ability on all products tab - drop down filtering capability is now available for each field in the all products tab in stack manager . in order to filter click on the arrow next to the field title . a drop down box with a list of attributes will appear . highlight the attribute by which you wish to filter . to turn off the filter click on the arrow and select the \" all \" option from the drop down box .\nwebsite changes\nnew submission screen for restricted top of stack limit orders - the submission screen for products that allow top of stack or restricted top of stack limit orders is as follows .\nthe submit button on the left makes a submission for a normal transaction , while the button on the right will submit as a limit order . in case of the restricted top of stack limit orders only internal traders will see the new submission box .\nprice of limit orders\nmodify limit orders\ncustomers now have the ability to modify the price of any active order . in order to do so highlight the order to be modified and use the plus or minus sign next to the price field on at the top of the \" today ' s orders \" section . the price will move up or down in the same increments as the tick size for that product . once the price is at the desired level click the \" set \" button and the price will be modified . another way to modify the price on a limit order is to click on the price field on a particular limit order . you will see a box with plus , minus and set buttons that allow you to modify that order .\nexpiration time for limit orders\ncustomers can now place limit orders with expiration times of up to 30 days . currently they may place orders for only up to 12 hours .\nfloat the today ' s orders section\nyou can now float the \" limit order \" section . in order to do so , right click in the \" today ' s orders \" section and select the float window option . in order to make the window \" stay on top \" right click on the floated window and select the stay on top option .\nmid market client - mid market originators will now have the ability to transact on behalf of their customers , while including their desired margin on the trade , on enrononline products . in order to do so click on the bid or offer price , a customised submission window will appear . select the counterparty for whom you wish to transact from a drop down list , enter the desired customer price and margin and click submit . for example if a customer wants to buy nymex sep 01 at 3 . 36 and you wish to have a 1 cent margin , please enter 3 . 36 as the desired price and 0 . 01 as the margin . the system will trade the order when the enrononline offer for nymex sep 01 is at 3 . 35 , book the trade at 3 . 36 and record the 0 . 01 origination amount .\nin order to be set up to use this functionality . please call the enrononline product control group .\nchanges to website passwords - as an added security measure , which has been requested by many customers , some new password rules have been instituted . first , the password cannot be equal to the login id . second , each user will be prompted to change his password every 90 days . these rules apply to all website passwords for both internal and external users .\nplease note stack manager changes will be available all traders as of monday august 20 , 2001 . the changes to the website will be rolled out to a few internal users on monday with the rest of the internal users being upgraded monday night , and external users by the end of the week . over the next couple of weeks all users will be prompted to change their website passwords .\nif you have any questions regarding these changes please contact me at 713 - 853 - 1787 .\nsavita puthigai\n",
+    "sender": "user53@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "54",
+    "subject": "Subject: re : pg & e texas meeting\nrecap of pg & e",
+    "body": "Subject: re : pg & e texas meeting\nrecap of pg & e texas meeting 4 / 12 / 00 .\nvolume issues :\n? sherlyn schumack will provide stacey neuweiler with volume variances by day\nand contract as soon as possible ( preferably the same day allocation is\nreceived ) .\n? stacey will notify sherlyn of correct volume or status if further research\nis necessary as soon as possible .\n? sherlyn will notify logistics , stacey , and lorraine of pg & e texas of\ninterconnect variances by day .\n? each group will respond promptly to ensure payment can be made through the\nsystem , eliminating manual line items on invoice .\n? charlotte hawkins will see what was confirmed on the outstanding\ninterconnect issue for 2 / 00 , and daren or charlotte will make the necessary\ncorrection .\nrate issues :\n? heidi withers will pull daily rates from pg & e texas bulletin board .\n? greg steagall will provide heidi with service verification ( s ) and the daily\nallocation summary received from pg & e texas during close , which shows rates\nfrom pg & e texas .\n? no action will be taken on rate variances where pg & e was paid per their\ninvoice . heidi has talked with brenda herod , and brenda is okay with this\ncourse of action .\n? there are four invoices from 1999 production where pg & e was underpaid , so\nheidi and greg will work to correct those months to pay pg & e correctly .\nthere are no open invoices in settlements .\n? it was noted that manual line items are not to be used to pay pg & e per\ntheir invoice in the future . we expect to correct issues in the system prior\nto the due date of the invoice unless there is a valid disagreement between\nena and pg & e . if ena has a valid disagreement , we will pay per ena \u0001 , s\nverification .\ndaren has put in a request for legal to transfer the ena transport contracts\nto hpl . this would eliminate stacey having to schedule the transport on ena\nas well as the desk to desk deal . it would also prevent sherlyn from having\nto allocate the transport expense contract and the brokered desk to desk\ndeal .\nhe has not had a response from legal yet .",
+    "sender": "user54@mail.com",
+    "category": "work",
+    "expected_action": "prioritize"
+  },
+  {
+    "id": "55",
+    "subject": "Subject: adjusted deal ticket\ndaren / o ' neal ,\ne",
+    "body": "Subject: adjusted deal ticket\ndaren / o ' neal ,\neffective 1 / 18 / 01 , deal ticket 137205 has been adjusted from a daily volume\nof 2 , 773 to 25 . the meter # is 9748 and the trade zone is 10 .\nbob",
+    "sender": "user55@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "56",
+    "subject": "Subject: re : cornhusker - lone star payments\nthan",
+    "body": "Subject: re : cornhusker - lone star payments\nthanks . james armstrong was able to give me enough history to prove out the idea that we ' ve more than paid for the lateral with usage - based charges . no need to call lone star .\nrh\n- - - - - original message - - - - -\nfrom : farmer , daren j .\nsent : friday , july 06 , 2001 3 : 57 pm\nto : hill , garrick\nsubject : re : cornhusker - lone star payments\nfor the period of oct 2000 - apr 2001 , we have paid about 540 , 000 . may is estimated to be another 57 , 000 . the person who usually pays lone star is out of the office . we ' ll get her to call them on monday for payments prior to oct 2000 .\nd\n- - - - - original message - - - - -\nfrom : hill , garrick\nsent : friday , july 06 , 2001 8 : 12 am\nto : armstrong , james ; farmer , daren j .\nsubject : cornhusker - lone star payments\nimportance : high\nsection 6 . 4 of tenaska iv ' s gas transportation agreement with lone star requires the shipper to pay transporter $ 1 , 040 , 000 in transportation fees and / or deficienty payments from the initial delivery date through december 31 , 2003 . do we know what the payments to lone star have been to date ? if not , can we find out by contacting lone star ?\nrh",
+    "sender": "user56@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "57",
+    "subject": "Subject: enron / hpl actuals for september 22 - 24",
+    "body": "Subject: enron / hpl actuals for september 22 - 24 , 2000\nfriday , september 22 , 2000\nteco tap 45 . 000 / enron ; 105 . 000 / hpl gas daily\nhpl ls katy 15 . 000 / enron\nsaturday , september 23 , 2000\nteco tap 45 . 000 / enron ; 105 . 000 / hpl gas daily\nhpl ls katy 15 . 000 / enron\nsunday , september 24 , 2000\nteco tap 57 . 500 / enron ; 1 . 875 / hpl gas daily\nhpl ls katy 2 . 500 / enron",
+    "sender": "user57@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "58",
+    "subject": "Subject: re : nom / actual flow for april 4 th\nwe ",
+    "body": "Subject: re : nom / actual flow for april 4 th\nwe agree\n\" eileen ponton \" on 04 / 05 / 2001 11 : 00 : 46 am\nto : david avila / lsp / enserch / us @ tu , charlie stone / texas utilities @ tu , melissa\njones / texas utilities @ tu , hpl . scheduling @ enron . com ,\nliz . bellamy @ enron . com\ncc :\nsubject : nom / actual flow for april 4 th\nnom mcf mmbtu\n20 , 000 19 , 909 20 , 447\nbtu = 1 . 027",
+    "sender": "user58@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "59",
+    "subject": "Subject: equistar\njust sold some same day ( today ",
+    "body": "Subject: equistar\njust sold some same day ( today ! ) gas to equistar @ meter 1553 . . . . whatever\nflows there on this gas day will be priced @ $ 4 . 40 . . .\nplease enter into sitara\nthanks ! ! !\nlee",
+    "sender": "user59@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "60",
+    "subject": "Subject: the bull reccomends this stokkpic\nyap int",
+    "body": "Subject: the bull reccomends this stokkpic\nyap internationa | , inc . ( ypil )\nvoip technoiogy requires no computer or high speed internet connection for its dial - up product .\ncurrent price : $ . 23\nwatch this stock thursday ! some of these littie voip stocks have been realiy moving lateiy .\nand when some of them move , they rea | | y go . . . gains of 10 o % , 200 % or more are\nnot unheard of .\nbreak news ! !\n* yap internationa | inc . ( ypil ) announced today that it has entered into a 24 month consulting agreement with securities trading services inc . ( sts ) of geneva , switzerland .\nunder the terms of the agreement sts wiil assist yap internationa | in accessing both equity and debt capita | for the purpose of advancing the company ? business plan reiating to its proprietary voip technology . as a resuit of the agreement with sts , yap internationa | is targeting a us dollar 5 oo , 0 oo bridge financing by way of debt , equity or a combination thereof .\nfunds for the bridge facility wil | primariiy be appiied to rights payments and the assembly of the additiona | equipment to be tested by a number of internet service providers proprietary to securing commercial contracts .\na mammoth gain of astronomical proportions very quickly . that ' s what can happen with these sma | | cap stocks when they take off . and it happens every day . wi | | ypil join the ranks of steilar performers ?\nabout the company :\nyap internationa | , inc . is a multi - nationa | internet communications\ncompany deveioping cost effective teiecommunications through voice over internet protocol ( voip ) technoiogies . the company ' s voip technoiogy requires no computer or high speed internet connection for its dia | - up product and works in conjunction with any standard push button phone to access voip sav - ings . the company pians on targeting the market of more than 1 . 1 biilion telephones woridwide , but specifica | | y , the internationa | cailing market as it pertains to foreign - born residents living in the united states and canada . the company ' s other products work with broadband , dsl , cabie , sateilite , and has wireiess capabilities . the company ' s administrative offices are located in vancouver , bc and sales offices in los angeies , ca .\n* yap\ninternational revealed a unique and patent pending technoiogy marketed as the nomad , or the yap international persona | gateway .\n* yap international announced its first major contract invoiving the use of its technology products . yap internationa | announced the signing of an exciusive contract with representaciones gorbea , s . a . as the company ? distributor for voip products and services in central and south america . representaciones gorbea , s . a . ( rgsa ) has a major presence in the region . rgsa entered into an exclusive contractua | agreement with the second | argest carrier in the region for 2 oo , 0 oo voip units to be depioyed throughout guatemaia in 2 oo 5 . the contract represents in excess of us dollar 52 , 0 oo , 0 oo and yap international expects that its products will comprise the | argest share of the order . rgsa is aiso\nthe exclusive representative for level 3 ( lvlt - nasdaq ) in central america .\n* yap internationa | announced the appointment of dr . vladimir karpenkov , ms , ph . d . as the company ? chief information officer . dr . karpenkov earned his phd at ura | state university and has compieted 2 separate master of science degrees in general programming / data base management and the physics of electromagnetic occurrences / optics of semi conductors respectively . dr . karpenkov ? diverse background also inciudes direct invoivement in the development of proprietary technologies and systems , many of which have been patented in the u . s . and europe . one such system was the first ceilular phone network for the city of chelyabinsk , russia which was deveioped by dr , karpenkov in partnership with miiliken gmbh of germany and radio\nteiephone inc . of russia .\nand piease watch this one trade thursday ! go ypil\ninformation within this publication contains future looking statements within the meaning of section 27 a of the securities act of 1933 and section 21 b of the securities exchange act of 1934 . any statements thatexpress or invoive discussions with respect to predictions , expectations , beliefs , plans , projections , objectives , goals , assumptions or futureevents or performance are not statements of historical fact and may be future | ooking statements . future | ooking statements are based on expectations , estimates and projections at the time the statements are made that involve a number of risks and uncertainties which couid cause actual results or events to differ materia | | y from those presentiy anticipated . future | ooking statements in this action may be identified through the use of words such as projects , foresee , expects , wiil , anticipates , estimates , believes , understands or that by statements indicating certain actions may , couid , or might occur . these future - | ooking statements are based on information currentiy availabie and are subject to a number of risks , uncertainties and other factors that could cause ypi | ? actua | resuits , performance , prospects or opportunities to differ materia | | y from those expressed in , or impiied by , these future - | ooking statements . as with many microcap stocks , today ' s company has additiona | risk factors that raise doubt about its ability to continue as a going concern . these risks , uncertainties and other factors include , without | imitation , the company ' s growth expectations and ongoing funding requirements , and specifically , the company ' s growth prospects with scaiabie customers . other risks include the company ' s | imited operating history , the company ' s history of operating | osses , consumers ' acceptance , the company ' s use of licensed technoiogies , risk of increased competition , the potential need for additiona | financing , the conditions and terms of any financing that is consummated , the limited trading market for the company ' s securities , the possible volatiiity of the company ' s stock price , the concentration of ownership , and the potential fluctuation in the company ' s operating resuits . the publisher of this report does not represent that the information contained in this message states all materia | facts or does not omit a material fact necessary to make the statements therein not misleading . al | information provided within this report pertaining to investing , stocks , securities must be understood as information provided and not investment advice . the publisher of this newsletter advises all readers and subscribers to seek advice from a registered professiona | securities representative before deciding to trade in stocks featured within this report . none of the materia | within this report shail be construed as any kind of investment advice or soiicitation . many of these companies are on the verge of bankruptcy . you can | ose ail your money by investing in this stock . the publisher of this report is not a registered investment expert . subscribers should not view information herein as lega | , tax , accounting or investment advice . any reference to past performance ( s ) of companies are speciaily seiected to be referenced based on the favorable performance of these companies . you wouid need perfect timing to achieve the results in the exampies given . there can be no assurance of that happening . remember , as always , past performance is not indicative of future resuits and a thorough due diiigence effort , including a review of a company ' s fiiings at sec gov or edgar - oniine com when availabie , should be completed prior to investing .\nail factual information in this report was gathered from public sources , including but not limited to company websites and company press releases . the pubiisher discioses the receipt of fifteen thousand dollars from a third party , not an officer , director , or affiliate shareholder ofthe company for the preparation of this online report . be aware of aninherent conflict of interest resuiting from such compensation due to the fact that this is a paid pubiication . the pubiisher of this report believes this information to be reliabie but can make no assurance as to its accuracy or completeness . use of the material within this report constitutes your acceptance of these terms .\nif you wish to stop future mailings , or if you fee | you have been\nwrongfuily placed in our membership , please go here ( - jeff 2005 @ fastmail . fm - )\n",
+    "sender": "user60@mail.com",
+    "category": "spam",
+    "expected_action": "archive"
+  },
+  {
+    "id": "61",
+    "subject": "Subject: fw : txu fuel deals imbalances\ndaren ,\nth",
+    "body": "Subject: fw : txu fuel deals imbalances\ndaren ,\nthe deals listed below are related to tufco imbalances . . . let me know if you have any objections to me entering the deals . . . o ' neal 3 - 9686\n- - - - - original message - - - - -\nfrom : griffin , rebecca\nsent : thursday , june 28 , 2001 9 : 58 am\nto : winfree , o ' neal d .\nsubject : txu fuel deals\nas my voice mail said , could you add deals for the following :\ndate : 1 / 31 - 1 / 31\nlocation : pgev / for tufco / 4300101\nvolume : 1 , 357 mmbtu\nprice : $ 3 . 94\nthis should be entered as a purchase with enron as buyer\ndate : 4 / 30 - 4 / 30\nlocation : pgev / for tufco / 4300101\nvolume : 8 , 726 mmbtu\nprice : $ 3 . 94\nthis should be entered as a sale with enron as seller\ndate : 5 / 31 - 5 / 31\nlocation : pgev / for tufco / 4300101\nvolume : 9 , 912 mmbtu\nprice : $ 3 . 94\nthis should be entered as a purchase with enron as buyer\nthis is related to the txu fuel wagner brown contract . please let me know if you have any questions .\nthanks ,\nrebecca\n713 - 571 - 3189",
+    "sender": "user61@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "62",
+    "subject": "Subject: epgt\nmike :\ni am down to the last few err",
+    "body": "Subject: epgt\nmike :\ni am down to the last few error messages on the epgt quick response and also looking into the external pool for who 34 in unify . about 70 % of the line items have been cleaned up .\ni need the following information from you as soon as possible .\n1 . the downstream contract number for aquila marketing and a \" scheduled quantity report \" for the pooling contract who 34 , this is the report you would obtain from the pipeline at the end of each cycle to determine cuts etc . or you can give me the user id and password\nand i can go pull it myself .\nthe epgt ' s it group is trying to research the correct duns # for aquila dallas marketing . if this issue is not resolved , i am planning on setting up a meeting with el paso on november 26 th at 1 : 30 at their offices and i would like for you to go with me . we will meet with their it and business group for about an hour or so .\nyour prompt attention to this will be greatly appreciated .\nthank you .\nshane lakho",
+    "sender": "user62@mail.com",
+    "category": "work",
+    "expected_action": "prioritize"
+  },
+  {
+    "id": "63",
+    "subject": "Subject: ehronline web address change\nthis message",
+    "body": "Subject: ehronline web address change\nthis message is intended for ehronline users only .\ndue to a recent change to ehronline , the url ( aka \" web address \" ) for\naccessing ehronline needs to be changed on your computer . the change\ninvolves adding the letter \" s \" to the \" http \" reference in the url . the url\nfor accessing ehronline should be : https : / / ehronline . enron . com .\nthis change should be made by those who have added the url as a favorite on\nthe browser .",
+    "sender": "user63@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "64",
+    "subject": "Subject: fw : chevron phillips chemical co . , lp ",
+    "body": "Subject: fw : chevron phillips chemical co . , lp ( hplc 04 / 01 sales / buyback )\ndaren -\nplease see my e - mail to julie below . can you change the price for me ?\nthanks !\ntess\n- - - - - original message - - - - -\nfrom : ray , tess\nsent : monday , may 21 , 2001 2 : 36 pm\nto : meyers , julie\nsubject : fw : chevron phillips chemical co . , lp ( hplc 04 / 01 sales / buyback )\nimportance : high\njulie -\nneed price correction for 04 / 01 / 01 - 04 / 30 / 01 for deal # 413462 to agree with info from lee below . currently , deal shows for 04 / 01 first 10 , 000 / d @ hsc _ flw + 1 high gdp dh . sitara audit shows dfarmer changed price on 05 / 08 / 01 /\nthanks !\ntess\n- - - - - original message - - - - -\nfrom : meyers , julie\nsent : tuesday , may 08 , 2001 11 : 01 am\nto : ray , tess\nsubject : re : chevron phillips chemical co . , lp ( hplc 04 / 01 sales / buyback )\n- - - - - - - - - - - - - - - - - - - - - - forwarded by julie meyers / hou / ect on 05 / 08 / 2001 10 : 57 am - - - - - - - - - - - - - - - - - - - - - - - - - - -\nfrom : lee l papayoti on 05 / 07 / 2001 04 : 54 pm\nto : julie meyers / hou / ect @ ect\ncc :\nsubject : re : chevron phillips chemical co . , lp ( hplc 04 / 01 sales / buyback )\nsa 413462 is not the buyback , it ' s the swing . . .\nthe first 10 , 000 / d under sa 413462 should be hsc _ flw + 1 high gdp d . a .\nanything over 10 , 000 / d should be hsc _ flw + 2 high gdp da\nthis is for all months from octo 0 to sepol\njulie meyers\n05 / 07 / 2001 04 : 43 pm\nto : lee l papayoti / hou / ect @ ect\ncc :\nsubject : chevron phillips chemical co . , lp ( hplc 04 / 01 sales / buyback )\nwhat do you think ?\n- - - - - - - - - - - - - - - - - - - - - - forwarded by julie meyers / hou / ect on 05 / 07 / 2001 04 : 39 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -\nfrom : tess ray / enron @ enronxgate on 05 / 07 / 2001 02 : 58 pm\nto : daren j farmer / enron @ enronxgate\ncc : julie meyers / hou / ect @ ect\nsubject : chevron phillips chemical co . , lp ( hplc 04 / 01 sales / buyback )\ndarren -\nplease advise on the 04 / 01 price for sales deal # sa 413462 on this buyback ( swing deal ) . the contract shows the price for 04 / 01 should be the same price as shown for 03 / 01 & 05 / 01 ( i . e . 04 / 01 price for deal # sa 413462 should be : 10 , 000 @ hsc _ flw + 1 high gdp d . a . & 11 , 000 @ hsc _ flw + 2 high gdp da ) .\nthanks !\ntess ray\ntess . ray @ enron . com\ncontract accountant , gas settlements ( sales )\nhouston pipe line co .\n1201 louisiana , la 1524 b\nhouston , tx . 77002\ntel : 713 - 571 - 3274 fax : 713 - 646 - 8875\n",
+    "sender": "user64@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "65",
+    "subject": "Subject: hpl noms . for jan . 17 , 2001\n( see atta",
+    "body": "Subject: hpl noms . for jan . 17 , 2001\n( see attached file : hplnol 17 . xls )\n- hplnol 17 . xls",
+    "sender": "user65@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "66",
+    "subject": "Subject: eastrans nomination change effective 8 / ",
+    "body": "Subject: eastrans nomination change effective 8 / 8 / 00\nplease decrease deliveries to eastrans to 0 mmbtu / dy for 8 / 8 / 00\nthe redeliveries will be 0 as well .\nthe over - delivery quantity for the fuels cotton valley gas will be valued per\nparagraph 3 of the contract price section in the transaction agreement .",
+    "sender": "user66@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "67",
+    "subject": "Subject: resume - anna cola\nanna cola is through a",
+    "body": "Subject: resume - anna cola\nanna cola is through a recruiter and would be at a 20 % fee .\n? for the last eight years anna has worked consistently as a project gas\naccountant .\nshe has worked in downstream gas marketing with companies such as shell ,\ncoastal , texaco , tenneco , natural gas clearing house and midcon texas\npipeline .\nanna has also worked on upstream accounting with eex and ashland\nexploration .\nshe has gained experience in areas of ap , ar , revenue accounting , joint\ninterest billing , and gas balancing .\nprior to working on a project basis anna was a jib accountant with buttes\nresources .\nanna is available to start immediately on a project or perm basis .\n- cola _ anna . doc",
+    "sender": "user67@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "68",
+    "subject": "Subject: re : husband soup would be\nas you know el",
+    "body": "Subject: re : husband soup would be\nas you know election time is not the best thing for the economy .\neconomy is in a very unstable condition , as you can see gas prices\nare going up along with the m o rtgvage rat e s . once the\nr a te goes up you will not have a chance to s av e money again\nfor a very long time .\nit is your last chance . get r e f inanced at 4 . 2 point !\nhttp : / / www . fintod . com /\n- -\ndespoil , compote a amende\nthe me orbital irruption\ngfawn a ax henrietta\na the in boatswain\nout whither the accompanist lint macintosh\n",
+    "sender": "user68@mail.com",
+    "category": "spam",
+    "expected_action": "archive"
+  },
+  {
+    "id": "69",
+    "subject": "Subject: deal # 502952\ndaren ,\nthe above deal numb",
+    "body": "Subject: deal # 502952\ndaren ,\nthe above deal number expired at the end of november 2000 and needs to either\nbe extended through december , or a new deal inputted . can you assist me in\nthis ?\nthanks .\nmike",
+    "sender": "user69@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "70",
+    "subject": "Subject: active and strong\ncialis helps increa $ e",
+    "body": "Subject: active and strong\ncialis helps increa $ e blood flow in the penis when a man is sexually stimulated . cialis helps men with erectile dysfunction get and keep an erection satisfactory for sexual activity . once a man has completed sexual activity , blood flow to his penis decreases , and his erection goes away .\nbe active when you need it",
+    "sender": "user70@mail.com",
+    "category": "spam",
+    "expected_action": "archive"
+  },
+  {
+    "id": "71",
+    "subject": "Subject: - get a dell laptop computer free !\n",
+    "body": "Subject: - get a dell laptop computer free !\n",
+    "sender": "user71@mail.com",
+    "category": "spam",
+    "expected_action": "archive"
+  },
+  {
+    "id": "72",
+    "subject": "Subject: revised avails for 12 / 00 as noted\nrevis",
+    "body": "Subject: revised avails for 12 / 00 as noted\nrevisions for 12 / 01\nbev\n- - - - - - - - - - - - - - - - - - - - - - forwarded by beverly beaty / hou / ect on 11 / 27 / 2000 10 : 38\nam - - - - - - - - - - - - - - - - - - - - - - - - - - -\nenron capital & trade resources corp .\nfrom : \" victor haley \"\n11 / 27 / 2000 11 : 35 am\nto :\ncc :\nsubject : revised avails for 12 / 00 as noted\nrevised avails for 12 / 00 as noted\n- enronavailsl 200 pools . xls",
+    "sender": "user72@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "73",
+    "subject": "Subject: howdy to you too .\nhi ,\nthe number is 281",
+    "body": "Subject: howdy to you too .\nhi ,\nthe number is 281 - 370 - 7838 .\ni did not think of it , but without the pipe one has to balance ones own , doesn ' t one . of course the major problem was the people with hpl , not the counter - parties . who ' s doing that for you guys ?\njen came home for the memorial day weekend so we just bummed around . saw pearl harbor , watched a few dvd ' s , and ate way to much .\nwhen you get time let us know about your \" bad luck \" . i hope jake wasn ' t helping you too much .\ni have been occupying much to much time with our new sound system . we finally chucked our little bookshelf unit and got a pile of yamaha stuff coupled to an equally large stack of klipsch speakers . awesome is the only word to apply . i ' m sure the neighbors are loving the old people next door . ( it ' s a young couple with a baby ) ( not near as nice as the other young couple i know ) .\nrumbling their walls at all hours just makes me feel good . : )\nstock market still sucks , but as long as it pays for groceries and taxes we ' ll be ok .\ni ' m off to get linda ' s gas guzzlin , environment ruining , suv washed and buffed . then i must re - stock my cd - r ' s and load up on some more music . you can see how well i ' m utilizing my time in doing productive things .\nlater ,\nken\np . s . i thought waha was where all the pillaging of california was taking place .",
+    "sender": "user73@mail.com",
+    "category": "support",
+    "expected_action": "reply"
+  },
+  {
+    "id": "74",
+    "subject": "Subject: back\nemile (\nthe cablefilterz will allow ",
+    "body": "Subject: back\nemile (\nthe cablefilterz will allow you to receive\nall the channels that you order with your remote control ,\npayperviews , axxxmovies , sport events , special - events !\nhttp : / / www . 8006 hosting . com / cable /\navocation , despoil .\n",
+    "sender": "user74@mail.com",
+    "category": "spam",
+    "expected_action": "archive"
+  },
+  {
+    "id": "75",
+    "subject": "Subject: new schedule\ncry born , cow mount record ",
+    "body": "Subject: new schedule\ncry born , cow mount record middle . govern , nor song problem\nworld . go invent , strong see many no , twenty . tube past are give\neight first clock . able top shout fun thus wire . east , most we .\npage wish fast . by move winter . hurry area small each . other ,\nthere , then . your second , farm this name differ when . red am\nschool with reason . square than burn .\n- -\nphone : 359 - 716 - 9493\nmobile : 608 - 244 - 1895\nemail : zoomssparking @ speedy . net . pe\n",
+    "sender": "user75@mail.com",
+    "category": "spam",
+    "expected_action": "archive"
+  },
+  {
+    "id": "76",
+    "subject": "Subject: northern natural gas\nyesterday , enron se",
+    "body": "Subject: northern natural gas\nyesterday , enron settled a procedural dispute with dynegy over northern natural gas . our settlement allows dynegy to exercise its option to acquire the pipeline , dismisses their texas lawsuit and extends enron ' s right to repurchase until june 30 . we reached this settlement as part of our efforts to bring enron out of bankruptcy . while we would like to keep northern natural , we still have some 9 , 000 miles of safe , profitable interstate pipelines as a base to rebuild our core businesses .\nthe settlement provides the best opportunity to resolve the pipeline issue quickly and pursue our $ 10 billion damage claim against dynegy . it also allows us to avoid the very substantial costs and distractions from protracted litigation in state courts .\nwe want to see a positive future for the employees working with northern natural gas . below is a copy of a message from stan horton further explaining this decision to the employees of enron transportation services .\nken\ndear ets colleague :\non thursday , enron entered into a settlement over dynegy ' s exercise of its option to acquire the northern natural gas pipeline . the settlement allows dynegy to exercise the option and assume interim control of the pipeline while enron pursues its damage claim against dynegy .\nin this respect , enron corp . has carefully weighed the substantial costs and turmoil that litigating this possession issue would create for the company and the employees of northern natural gas . consequently , enron corp . has decided not to contest interim possession and allow the transfer of northern natural gas to dynegy , while the larger issues affecting its future are resolved .\nthe company has concluded that with this settlement , enron should be able to resolve the issue more quickly , as well as avoid the legal cost burden and distractions to the business from protracted litigation in state court . for the northern natural gas employees , i believe this decision should allow them to steer clear of the dispute and focus on the day - to - day satisfaction of running a valuable , successful business .\nbeginning immediately we will be working to achieve a smooth transition and to align the appropriate resources to assure continued safe , reliable and efficient operation of northern natural gas .\nover many years we have run high quality , cost conscious and profitable businesses in ets . keep up the good work !\nstan",
+    "sender": "user76@mail.com",
+    "category": "support",
+    "expected_action": "reply"
+  },
+  {
+    "id": "77",
+    "subject": "Subject: re : tenaska iv\nany word yet ? i don ' t ",
+    "body": "Subject: re : tenaska iv\nany word yet ? i don ' t mean to rush you , but tenaska iv is being very\npersistent .\n- - - - - - - - - - - - - - - - - - - - - - forwarded by megan parker / corp / enron on 12 / 04 / 2000\n03 : 55 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -\nfrom : megan parker 12 / 01 / 2000 02 : 45 pm\nto : daren j farmer / hou / ect @ ect\ncc :\nsubject : re : tenaska\nthat sounds great . because of the accrual , i cannot draft this today . i\nwill try it on monday . what about the demand fee for the payable to tenaska\niv . do you think that is a good idea ? i explained it to kris hanson and she\nagreed that it was the best way to book this payable . we would need a new\ndemand purchase ticket for tenaska iv on the cleburne desk in the amount of\n$ 2 , 803 , 586 . 41 with no volume and no commodity . this is more than we owe\ntenaska iv , but i will net it with the tenaska iv sale and the $ 0 . 04 demand\nfee to pay a net amount of $ 1 , 551 , 050 . 76 . i have attached my spreadsheet\nwhich details our payment . we will have to adjust this number once we get\nthe actual volumes . i would like to pay tenaska iv next week , so please let\nme what you think .\nthanks ,\nmegan",
+    "sender": "user77@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "78",
+    "subject": "Subject: oasis on - line\ndaren - - -\noasis will be",
+    "body": "Subject: oasis on - line\ndaren - - -\noasis will be doing away with the temporary passwords for their on - line nom they are\nencourageing everyone to get on board . let me know what you want to do . i\nhave attached the agreement , and info on the nom / confirm cycles . i have been\nusing it this week and it is pretty user friendly . the reporting\ncapabilities are still being developed , but i am told it should be ready\nsoon . take a look for yourself @ www . oasispipeline . com . . . . . . . . . . logon :\nnorth . . . . . password : enron . . . . . . . . currently , no intradays are allowed\nonline ( only by fax / email ) because they want to approve same days , but they\nare looking at allowing them in the future .\n- - mark",
+    "sender": "user78@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "79",
+    "subject": "Subject: @ ect . enron . com email notification !\n",
+    "body": "Subject: @ ect . enron . com email notification !\nwe are one @ enron . com !\nplease be aware of the following senders were automatically notified to ( a ) .\nstop sending internet mail to your @ ect . enron . com address and to ( b ) . send\nfuture internet communications to daren . j . farmer @ enron . com :\nfpam _ @ hotmail . com , mjones 7 @ txu . com\nreminder :\nyour @ ect . enron . com address should not be used any longer and will be\ndeactivated soon . so please make sure these contacts switch to your new\n@ enron . com address . if you have subscribed to mailing lists , please make\nsure to update your addresses there as well .\nand\nyour shortname @ enron . com address ( i . e . jsmith @ enron . com ) will continue to\nwork , even though your formal address is longname @ enron . com ( i . e .\njohn . smith @ enron . com )\nplease do not reply to this message as it was automatically generated .",
+    "sender": "user79@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "80",
+    "subject": "Subject: re : free agents\nsend me a request of who",
+    "body": "Subject: re : free agents\nsend me a request of who you want , and i will make the transaction this\nevening . . . expecting that no one ahead of you in the waiver ranking makes a\nbid for the same person . the new player will be available for this weekend\n( assuming the games are on ! ) , and you will be dropped to the bottom of the\nwaiver ranking system . remember , you can only pick up 2 per week . get back\nto me when you want !\n- dustin\n- - - - - original message - - - - -\nfrom : farmer , daren j . [ mailto : daren . j . farmer @ enron . com ]\nsent : wednesday , september 12 , 2001 11 : 59 am\nto : dustinb @ bammel . org\nsubject : free agents\ndustin ,\nhow are we working free agents ? when can i add someone ?\nd\nthis e - mail is the property of enron corp . and / or its relevant affiliate and\nmay contain confidential and privileged material for the sole use of the\nintended recipient ( s ) . any review , use , distribution or disclosure by\nothers is strictly prohibited . if you are not the intended recipient ( or\nauthorized to receive for the recipient ) , please contact the sender or reply\nto enron corp . at enron . messaging . administration @ enron . com and delete all\ncopies of the message . this e - mail ( and any attachments hereto ) are not\nintended to be an offer ( or an acceptance ) and do not create or evidence a\nbinding and enforceable contract between enron corp . ( or any of its\naffiliates ) and the intended recipient or any other party , and may not be\nrelied on by anyone as the basis of a contract by estoppel or otherwise .\nthank you .\n- winmail . dat",
+    "sender": "user80@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "81",
+    "subject": "Subject: 21 st changes\n- - - - - - - - - - - - - -",
+    "body": "Subject: 21 st changes\n- - - - - - - - - - - - - - - - - - - - - - forwarded by ami chokshi / corp / enron on 01 / 20 / 2000\n10 : 39 am - - - - - - - - - - - - - - - - - - - - - - - - - - -\ntroy _ a _ benoit @ reliantenergy . com on 01 / 20 / 2000 10 : 36 : 49 am\nto : ami chokshi / corp / enron @ enron\ncc :\nsubject : 21 st changes\n( see attached file : egmnom - jan . xls )\n- egmnom - jan . xls",
+    "sender": "user81@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "82",
+    "subject": "Subject: re : noms / actual vol for april 22 nd\nwe",
+    "body": "Subject: re : noms / actual vol for april 22 nd\nwe agree\n\" eileen ponton \" on 04 / 23 / 2001 10 : 57 : 34 am\nto : david avila / lsp / enserch / us @ tu , charlie stone / texas utilities @ tu , melissa\njones / texas utilities @ tu , hpl . scheduling @ enron . com , liz . bellamy @ enron . com\ncc :\nsubject : noms / actual vol for april 22 nd\ndate nom mcf mmbtu\n4 / 20 25 , 000 24 , 402 25 , 061 ( flowed from 13 : 00 to 9 : 00\nam - 20 hours )\n4 / 21 15 , 625 15 , 829 16 , 256 ( flowed from 9 : 00 am to\n24 : 00 - 15 hours )\n4 / 22 25 , 500 25 , 148 25 , 827 ( flowed from 16 : 00 to 9 : 00\nam - 17 hours )\nbtu = 1 . 027",
+    "sender": "user82@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "83",
+    "subject": "Subject: hpl nom for november 14 , 2000\n( see atta",
+    "body": "Subject: hpl nom for november 14 , 2000\n( see attached file : hplnl 114 . xls )\n- hplnl 114 . xls",
+    "sender": "user83@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "84",
+    "subject": "Subject: pat - out for jury duty\ni am out of the o",
+    "body": "Subject: pat - out for jury duty\ni am out of the office on monday for jury duty . in my absence , charlotte\nhawkins will be the contact for the texas desk\nlogistics group . she will attend any meetings while i am out and is\nresponsible for our group ( we will rotate this backup\nrole among the seniors of the group ) . i can be paged at ( 713 ) 708 - 0117 .\nthanks , pat",
+    "sender": "user84@mail.com",
+    "category": "work",
+    "expected_action": "prioritize"
+  },
+  {
+    "id": "85",
+    "subject": "Subject: 108 mbps wireless firewall 4 - port route",
+    "body": "Subject: 108 mbps wireless firewall 4 - port router @ $ 59 . 00\nnetgear 108 mbps wireless firewall 4 - port\nrouter\n$ 59 . 00\nsuper fast ! this netgear wgt 624 na\n108 mbps wireless firewall router is\n10 times faster than 802 . 11 b routers ! when used with\nnetgear ' s wg 511 t 108 mbps wireless pc card , it delivers speeds\nup to 108 mbps using super gtm technology . it\nhas the power to distribute byte - hungry photos and smooth ,\nlong - range mp 3 and digital movie streams at superior range . plus ,\nit ' s super secure ! order yours today !\nvisit : http : / / www . computron - me . com for deals\n!\nyour one stop distributorjebel ali duty free zonedubai , uae . www . computron - me . com\nfor latest clearance sale listing contact our\nsales department .\nfor further details please send\nyour enquiries to : dealers @ emirates . net . aeor contact via www . computron - me . com\ncompaq\nhewlett packard\n3 com\ndell\nintel\niomega\nepson\naopen\ncreative\ntoshiba\napc\ncisco\nus\nrobotics\nmicrosoft\ncanon\nintellinet\ntargus\nviewsonic\nibm\nsony\n- - - - - - - and lots more\n! ! !\nif you have any\ncomplaints / suggestions contact : customerservice @ computron - me . com\ntel + 971 4\n8834464\nall prices in u . s . dollars , ex - works ,\nfax + 971 4\n8834454\njebel ali duty free zone\nwww . computron - me . com\nprices and availability subject to change\nusa -\ncanada u . a . e .\nwithout\nnotice .\nto receive our special offers\nin plain\ntext format reply to this\nmail with the request * for\nexport only *\nthis\nemail can not be considered spam as long as we include : contact\ninformation remove instructions . this message is intended for dealer\nand resellers only . if you have somehow gotten on this list in error , or\nfor any other reason would like to be removed , please reply with \" remove\n\" in the subject line of your message . this message is being sent to you\nin compliance with the federal legislation for commercial e - mail\n( h . r . 4176 - section 101 paragraph ( e ) ( 1 ) ( a ) and bill s . 1618 title iii\npassed by the 105 th u . s . congress .\nall logos and\ntrademarks are the property of their respective\nowners\nproducts may not be exactly as shown\nabove\n- -\nto unsubscribe from : computron 4 , just follow this link :\nclick the link , or copy and paste the address into your browser .\nplease give it atleast 48 hours for unsubscription to be effective .",
+    "sender": "user85@mail.com",
+    "category": "spam",
+    "expected_action": "archive"
+  },
+  {
+    "id": "86",
+    "subject": "Subject: income tax\ndaren , tell tonya i called ed",
+    "body": "Subject: income tax\ndaren , tell tonya i called edie last night about my w - 2 . she said that they\ngot a new cpa & he has been told to mail them but hasn ' t . she gave me the\namount that will show on the form . it was $ 1500 . i wrote it down at home\nhow much the net was , but i didn ' t bring it with me . i had drawn some off\npaying for lacy ' s tiger doll stuff . she said that she would tell him again\nto get them mailed . love , ma\nget your private , free email at http : / / www . hotmail . com",
+    "sender": "user86@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "87",
+    "subject": "Subject: enron nom for march 7 , 2001\n( see attach",
+    "body": "Subject: enron nom for march 7 , 2001\n( see attached file : hplno 307 . xls )\n- hplno 307 . xls",
+    "sender": "user87@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "88",
+    "subject": "Subject: meter # 1591 lamay gaslift\naimee ,\nplease",
+    "body": "Subject: meter # 1591 lamay gaslift\naimee ,\nplease check meter # 1591 lamay gas lift . it doesn ' t appear to have very much\nflow and the\nbav is showing the nom volume . this could be adversely affecting the risk\nnumbers . pat",
+    "sender": "user88@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "89",
+    "subject": "Subject: quack\n( see attached file : duck hunting ",
+    "body": "Subject: quack\n( see attached file : duck hunting . mpe )\n- duck hunting . mpe",
+    "sender": "user89@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "90",
+    "subject": "Subject: vulgar\nmuniz ,\ngovenment don ' t want me ",
+    "body": "Subject: vulgar\nmuniz ,\ngovenment don ' t want me to sell\nundergroundcd ! check your spouse and staff\ninvestigate your own credit - history\nhacking someone pc !\ndisappear in your city\nbannedcd 2004\nhttp : / / www . 8006 hosting . com / cd /\nbingham , by the open .\n",
+    "sender": "user90@mail.com",
+    "category": "spam",
+    "expected_action": "archive"
+  },
+  {
+    "id": "91",
+    "subject": "Subject: smal | stock oppurtunities - their shooti",
+    "body": "Subject: smal | stock oppurtunities - their shooting\nhaley ,\ntechlite , inc . ( 0 tcbb : thlt )\njoint venture agreement with anticipated $ 3 - 5 mi | | ion\nof new business ( source : news 11 / 3 o / 04 )\nshares outstanding : 10 , 994 , 910 ( source : loq 8 / 19 / 04 )\ncurrent price : $ . 54\na massive pr campaign is underway on this stock . some of these smal | stocks are absoiuteiy fiying , as many of you know . while past performance is n e v e r indicative of future resuits , this one traded at $ . 9 o back on november 11 th . wil | thlt bounce back ? is it a w i n ning trade from here ?\nreasons to consider thlt ( source : recent press reieases )\n1 ) techlite subsidiary , keystone , reaches agreement with redi - controis to market oam purger in greater china\n2 ) techlite can reduce corporate electrica | usage up to 50 percent\n3 ) techlite , inc . reaches distribution agreement with frigi - tech internationa | , inc . of houston , texas\n4 ) techlite signs joint venture agreement with anticipated $ 3 - 5 million of new business\nabout techlite inc . ( source : news january 7 , 2 oo 5 )\ntechlite inc . is a nationa | energy service company . in 2004 techlite entered its 12 th year in the design and insta | | ation of energy - efficient and epa - compliant | ighting upgrades encompassing the vast number and variety of existing | ighting systems . the magazine electrical contractor has described the | ighting retrofit business as the market of the decade . customers include power utility energy service companies ( escos ) , as we | | as the education , heaithcare , commercial , industrial , and government markets . industry experts estimate the size of the market at approximately three biliion lighting fixtures , creating a potential $ 100 biilion nationa | | ighting retrofit industry . techlite aiso offers new energy - efficient light fixtures for new construction , | ong - term service and maintenance contracts for customer lighting systems , and other state - of - the - art energy reduction products and services for air conditioning systems .\nwatch this stock tuesday . can it put some short term money in your pocket ? if you think so , consider trading some for your account . good luck .\ncertain statements in this news reiease may contain forward - | ooking information within the meaning of rule 175 under the securities act of 1933 and rule 3 b - 6 under the securities exchange act of 1934 , and are subject to the safe harbor created by those ruies . ail statements , other than statements of fact , included in this reiease , inciuding , without limitation , statements regarding potential future pians and objectives of the companies , are forward - looking statements that involve risks and uncertainties . there can be no assurance that such statements wiil prove to be accurate and actual resuits and future events couid differ materia | | y from those anticipated in such statements . as with many microcap stocks , todays company has additional risk factors worth noting . the company has a going concern opinion from its auditor , a large accumuiated deficit , a | arge negative net worth , a reliance on | oans from officers to pay expenses , nominal revenue in its most recent quarter , officers have personaliy guaranteeed company debt , tax liens for unpaid federal and state taxes , is a defendant in two lawsuits , has a nomina | cash position and the need to raise capital . a faiiure to raise capital couid cause the company to go out of business . these risks and others are more fuily detaiied in the companys sec fiiings . we strongly urge you to review them before you invest . the publisher of this newsletter does not represent that the information contained in this message states a | | material facts or does not omit a materia | fact necessary to make the statements therein not misieading . read the compay ' s sec fiiings before you invest . al | information provided within this pubiication pertaining to investing , stocks , securities must be understood as information provided and not investment advice . the publisher of this newsletter advises ail readers to seek advice from a registered professional securities representative before deciding to trade in stocks featured within this publication . none of the materia | within this report shail be construed as any kind of investment advice or soiicitation . many of these companies are on the verge of bankruptcy . you can lose all your money by investing in this stock . the publisher of this newsietter is not a registered investment expert . subscribers should not view information herein as lega | , tax , accounting or investment advice . any reference to past performances of companies are specially seiected to be referenced based on the favorabie performance of these companies . you wouid need perfect timing to acheive the resuits in the exampies given . there can be no assurance of that happening . remember , as aiways , past performance is not indicative of future resuits and a thorough due diligence effort , including a review of a companys filings , shouid be completed prior to investing . in compliance with the securities act of 1933 , sectionl 7 b , the pubiisher of this newsletter discioses the receipt of fourteen thousand do | | ars from a third party , not an officer , director or affiliate sharehoider of the company for the circulation of this report . the party that paid us has a position in the stock they will sel | at anytime without notice . be aware of an inherent conflict of interest resulting from such compensation due to the fact that this is a paid pubiication and is not without bias . ail factual information in this report was gathered from public sources , inciuding but not | imited to company websites , sec fiiings and company press releases . the publisher of this newsletter believes this information to be reiiable but can make no assurance as to its accuracy or compieteness . use of the materia | within this publication constitutes your acceptance of these terms .\n",
+    "sender": "user91@mail.com",
+    "category": "spam",
+    "expected_action": "archive"
+  },
+  {
+    "id": "92",
+    "subject": "Subject: tinydrive usb 2 . 0 mobile 2 . 2 gb stora",
+    "body": "Subject: tinydrive usb 2 . 0 mobile 2 . 2 gb storage drive @ $ 187 . 00\ntinydrive 2 . 2 gb . 5 x 2 . 25 x 2 . 5 - inches ( h x w x d )\n2 . 2\ngigabytesmobile storage driveusb 2 . 0\n$ 187 . 00 \" lightweight and compact design\n\"\nvisit : http : / / www . computron - me . com for deals !\ntinydrive usb 2 . 0\nmobile 2 . 2 gb storage drive\nthe tinydrive\nmobile drive provides 2 . 2 gb\nof high - capacity , high - performance removable\nstorage in a compact and lightweight designed . with a\nusb 2 . 0 interface and 6 . 5 mb data transfer rate , it ' s\nthe perfect external large capacity drive for your pc\nand notebooks . plus , it ' s so small you can literally\ntake it almost anywhere !\ngeneral features :\n- usb 2 . 0 interface\n( backwards compatible ) - 2 . 2 gb storage drive -\n6 . 5 mb sustained data transfer rate - usb bus\npowered - no external power or battery needed -\nlightweight and compact\ndesign\nyour one stop\ndistributorjebel ali duty free zonedubai , uae . www . computron - me . com\nfor latest clearance sale listing contact our\nsales department .\nonly limited quantities available on selected\nspecials ! ! ! !\nfor further details please send\nyour enquiries to : dealers @ emirates . net . aeor contact via www . computron - me . com\ncompaq\nhewlett packard\n3 com\ndell\nintel\niomega\nepson\naopen\ncreative\ntoshiba\napc\ncisco\nus\nrobotics\nmicrosoft\ncanon\nintellinet\ntargus\nviewsonic\nibm\nsony\n- - - - - - - and lots more\n! ! !\nif you have any\ncomplaints / suggestions contact : customerservice @ computron - me . com\ntel + 971 4\n8834464\nall prices in u . s . dollars , ex - works ,\nfax + 971 4\n8834454\njebel ali duty free zone\nwww . computron - me . com\nprices and availability subject to change\nusa -\ncanada u . a . e .\nwithout\nnotice .\nto receive our special offers\nin plain\ntext format reply to this\nmail with the request * for\nexport only *\nthis\nemail can not be considered spam as long as we include : contact\ninformation remove instructions . this message is intended for dealer\nand resellers only . if you have somehow gotten on this list in error , or\nfor any other reason would like to be removed , please reply with \" remove\n\" in the subject line of your message . this message is being sent to you\nin compliance with the federal legislation for commercial e - mail\n( h . r . 4176 - section 101 paragraph ( e ) ( 1 ) ( a ) and bill s . 1618 title iii\npassed by the 105 th u . s . congress .\nall logos and\ntrademarks are the property of their respective\nowners\nproducts may not be exactly as shown\nabove\n- -\nto unsubscribe from : computron 3 , just follow this link :\nclick the link , or copy and paste the address into your browser .\nplease give it atleast 48 hours for unsubscription to be effective .",
+    "sender": "user92@mail.com",
+    "category": "spam",
+    "expected_action": "archive"
+  },
+  {
+    "id": "93",
+    "subject": "Subject: pay less for microsoft office software\ntu",
+    "body": "Subject: pay less for microsoft office software\nturn silkleafy apart danecclesiastic\nlocomotor superposableadele doubleday perimetermush\nconfucianism ruckusboolean crux searchnegate\nglee ain ' tbyway saxophone avengepate\nsierra hospitable cockroachretroactive\nretire eratosthenesjure biharmonic passagebark\ncleft botanictemplate discreet klausharpy\nconvey chastitylyra beecham wieldlehigh\nantagonism communicable suspensediscussion\nglade siegfriedcartilage prof angiospermyoke\ncore snobbery stamfordceramium\nsquare alesnobbish buffalo wehrozark\nhepatica stepmother histidineboil\nnoticeable englandmarketeer quadrupole leasechamplain\nbombproof cullhailstorm crewcut refractometerfebrile\ncensus threesome merittriennial\nthug tiranabagel boson debrishumerus\nexcel allergydevoid histochemistry degummingrafferty\nwoebegone merganseralways belong traineeasynchrony",
+    "sender": "user93@mail.com",
+    "category": "spam",
+    "expected_action": "archive"
+  },
+  {
+    "id": "94",
+    "subject": "Subject: young sluts had sex for tewnty bucks\nbuen",
+    "body": "Subject: young sluts had sex for tewnty bucks\nbuenos noches !\nta llueu\n",
+    "sender": "user94@mail.com",
+    "category": "spam",
+    "expected_action": "archive"
+  },
+  {
+    "id": "95",
+    "subject": "Subject: take 30 % off with our super ticket !\nuse",
+    "body": "Subject: take 30 % off with our super ticket !\nuse our super savings ticket at foot locker , lady foot locker , kids\nfoot locker , champs sports stores and at our web sites !\nwelcome to our friends & family super savings ticket .\nuse the special ticket below and receive 30 % off your purchase either in our\nstores or on our web sites . hurry ! this three - day ticket only is good\nthursday , jan . 25 , through saturday , jan 27 .\nshare the savings today and e - mail this offer to friends and family . many\nitems already are reduced and the discount is taken off the lowest sale price .\nclick below to print your friends & family super savings ticket . you must\nbring the coupon to the store to redeem .\nready , set , save !\nsimply click on the links provided and our friends & family discount will\nautomatically appear at checkout or you can type the code into the promotion\nbox during checkout . and returns are hassle - free , either to one of our stores\nor through the mail .\nfootlocker . com coupon code : em 21 f 2 jl\nladyfootlocker . com coupon code : em 23 ffjl\nkidsfootlocker . com coupon code : em 22 ffjl\nchampssports . com coupon code : em 20 ffjl\ndon ' t be left out - register today , if you want to hear about our products ,\npromotions , events and other specials - just click below to join .\n* terms and conditions *\nvalid 1 / 25 / 01 through 1 / 27 / 01 . passport must be presented at the time of\npurchase and cannot be used in conjunction with any other discount offer or\nassociate benefit . not redeemable for cash . applicable taxes must be paid by\nthe bearer . cannot be applied to prior purchases or to gift card purchases .\nvoid if copied and where prohibited , licensed or regulated . catalog\nexclusions apply . not valid at the nfl team shop at nfl experience in tampa ,\nfl . discount does not apply to nike air force 1 , timberland field boots ,\njordan xi , nike shox and nfl super bowl products .\nif you do not wish to receive future emails please click below to\nunsubscribe :\n",
+    "sender": "user95@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "96",
+    "subject": "Subject: updated list\nvalero deals have now been a",
+    "body": "Subject: updated list\nvalero deals have now been added .\nplease make sure that this list is forward to anyone in your groups that\nmight need it .\njulie",
+    "sender": "user96@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "97",
+    "subject": "Subject: hpl nom for march 27 , 2001\n( see attache",
+    "body": "Subject: hpl nom for march 27 , 2001\n( see attached file : hplno 327 . xls )\n- hplno 327 . xls",
+    "sender": "user97@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  },
+  {
+    "id": "98",
+    "subject": "Subject: what she doesnt know sprig bashaw\ndirect ",
+    "body": "Subject: what she doesnt know sprig bashaw\ndirect to you\nwarehouse direct\nr _ x discounts\nthe best available ! !\n: :\nmore info : :\nits not the size of the dog in the fight ; its the size of the fight in the dog . - mark twain ( 1835 - 1910 )\nnot only is there no god ; but try finding a plumber on sunday . - woody allen ( 1935 - )\n",
+    "sender": "user98@mail.com",
+    "category": "spam",
+    "expected_action": "archive"
+  },
+  {
+    "id": "99",
+    "subject": "Subject: mobil beaumont\nbrian nichols of exxonmobi",
+    "body": "Subject: mobil beaumont\nbrian nichols of exxonmobil confirmed that they will accept 30 , 000 / d of midcon ' s gas on hpl starting tomorrow .\nthey want to leave 10 , 000 / d flowing on midcon .\ni guess this goes on through april 5 ? ?",
+    "sender": "user99@mail.com",
+    "category": "general",
+    "expected_action": "archive"
+  }
+]

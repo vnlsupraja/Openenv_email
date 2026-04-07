@@ -1,4 +1,3 @@
-# app.py
 from fastapi import FastAPI
 from env.environment import EmailEnv
 from env.tasks import EasyTask
@@ -14,7 +13,7 @@ def root():
 def state():
     return env.state()
 
-@app.get("/reset")
+@app.post("/reset")
 def reset():
     return env.reset()
 
@@ -28,3 +27,11 @@ def step(action: dict):
         "done": done,
         "info": info
     }
+
+def main():
+    import uvicorn
+    uvicorn.run("server.app:app", host="0.0.0.0", port=8000, reload=True)
+
+if __name__ == "__main__":
+    main()
+

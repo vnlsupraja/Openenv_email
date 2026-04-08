@@ -11,8 +11,12 @@ def grade(history, expected_map):
     Returns:
         Score between 0.0 and 1.0
     """
+    # Hackathon validator expects score to be strictly in (0, 1).
+    # Keep a tiny margin from the boundaries for all outcomes.
+    eps = 0.001
+
     if not expected_map or not history:
-        return 0.0
+        return eps
     
     total_steps = 0
     correct_steps = 0
@@ -42,6 +46,7 @@ def grade(history, expected_map):
 
             progress[eid] = idx + 1
 
-    return correct_steps / total_steps if total_steps > 0 else 0.0
+    raw_score = (correct_steps / total_steps) if total_steps > 0 else 0.0
+    return max(eps, min(1.0 - eps, raw_score))
 
 

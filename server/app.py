@@ -1,6 +1,7 @@
 from fastapi import FastAPI
 from env.environment import EmailEnv
 from env.tasks import EasyTask
+import os
 
 app = FastAPI()
 env = EmailEnv(EasyTask())
@@ -17,6 +18,10 @@ def state():
 def reset():
     return env.reset()
 
+@app.post("/openenv/reset")
+def openenv_reset():
+    return env.reset()
+
 @app.post("/step")
 def step(action: dict):
     from env.models import Action
@@ -28,9 +33,18 @@ def step(action: dict):
         "info": info
     }
 
+@app.post("/openenv/step")
+def openenv_step(action: dict):
+    return step(action)
+
+@app.get("/openenv/state")
+def openenv_state():
+    return env.state()
+
 def main():
     import uvicorn
-    uvicorn.run("server.app:app", host="0.0.0.0", port=8000, reload=True)
+    port = int(os.getenv("PORT", "7860"))
+    uvicorn.run("server.app:app", host="0.0.0.0", port=port, reload=False)
 
 if __name__ == "__main__":
     main()

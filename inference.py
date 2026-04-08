@@ -21,6 +21,18 @@ except Exception as e:
 
 MODEL = MODEL_NAME
 
+
+def emit_start(task_name):
+    print(f"[START] task={task_name}", flush=True)
+
+
+def emit_step(step, reward):
+    print(f"[STEP] step={step} reward={reward:.4f}", flush=True)
+
+
+def emit_end(task_name, score, steps):
+    print(f"[END] task={task_name} score={score:.4f} steps={steps}", flush=True)
+
 def get_deterministic_action(task_obj, email):
     """
     Use the task's expected actions to determine the correct action.
@@ -46,7 +58,8 @@ def get_deterministic_action(task_obj, email):
     return {"type": "archive", "email_id": email.id}
 
 
-def run_task(task, use_api=True):
+def run_task(task, task_name, use_api=True):
+    emit_start(task_name)
     env = EmailEnv(task)
     obs = env.reset()
 
@@ -118,11 +131,14 @@ Respond with a JSON action dictionary like: {{"type": "archive", "email_id": "{e
             obs, reward, done, info = env.step(Action(**action))
             total_reward += reward.value
             action_count += 1
+            emit_step(action_count, reward.value)
         except Exception as e:
             print(f"Error stepping environment: {e}")
             break
-    
-    return total_reward, info["score"] if "info" in locals() else 0.0
+
+    final_score = info["score"] if "info" in locals() else 0.0
+    emit_end(task_name, final_score, action_count)
+    return total_reward, final_score
 
 
 if __name__ == "__main__":
@@ -149,7 +165,7 @@ if __name__ == "__main__":
     for task, description in tasks:
         try:
             use_api = client is not None
-            reward, score = run_task(task, use_api=use_api)
+            reward, score = run_task(task, description, use_api=use_api)
             results.append((description, reward, score))
             print(f"✓ {description}")
             print(f"  Total Reward: {reward:.2f}")
